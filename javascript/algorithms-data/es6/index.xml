@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ES6 on codthing</title>
-    <link>https://github.com/codthing/javascript/algorithms-data/es6/</link>
+    <link>https://codthing.github.io/javascript/algorithms-data/es6/</link>
     <description>Recent content in ES6 on codthing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <copyright>&amp;copy;{year}, codthing</copyright>
     <lastBuildDate>Tue, 28 Jan 2020 00:34:39 +0900</lastBuildDate>
     
-        <atom:link href="https://github.com/codthing/javascript/algorithms-data/es6/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://codthing.github.io/javascript/algorithms-data/es6/index.xml" rel="self" type="application/rss+xml" />
     
     
     

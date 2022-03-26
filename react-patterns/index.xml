@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patterns on codthing</title>
-    <link>https://github.com/codthing/react-patterns/</link>
+    <link>https://codthing.github.io/react-patterns/</link>
     <description>Recent content in Patterns on codthing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <copyright>&amp;copy;{year}, codthing</copyright>
     <lastBuildDate>Tue, 28 Jan 2020 00:34:39 +0900</lastBuildDate>
     
-        <atom:link href="https://github.com/codthing/react-patterns/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://codthing.github.io/react-patterns/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Design Patterns 设计模式</title>
-        <link>https://github.com/codthing/react-patterns/design-patterns/</link>
+        <link>https://codthing.github.io/react-patterns/design-patterns/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/design-patterns/</guid>
+        <guid>https://codthing.github.io/react-patterns/design-patterns/</guid>
         <description></description>
       </item>
       
       <item>
         <title>Render Patterns 渲染模式</title>
-        <link>https://github.com/codthing/react-patterns/render-patterns/</link>
+        <link>https://codthing.github.io/react-patterns/render-patterns/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/render-patterns/</guid>
+        <guid>https://codthing.github.io/react-patterns/render-patterns/</guid>
         <description></description>
       </item>
       
       <item>
         <title>Performance Patterns 性能模式</title>
-        <link>https://github.com/codthing/react-patterns/performance-patterns/</link>
+        <link>https://codthing.github.io/react-patterns/performance-patterns/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/performance-patterns/</guid>
+        <guid>https://codthing.github.io/react-patterns/performance-patterns/</guid>
         <description></description>
       </item>
       

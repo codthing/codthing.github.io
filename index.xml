@@ -2,1302 +2,1302 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>codthing</title>
-    <link>https://github.com/codthing/</link>
+    <link>https://codthing.github.io/</link>
     <description>Recent content on codthing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <copyright>&amp;copy;{year}, codthing</copyright>
     <lastBuildDate>Sun, 26 Jan 2020 04:15:05 +0900</lastBuildDate>
     
-        <atom:link href="https://github.com/codthing/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://codthing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>May 2019</title>
-        <link>https://github.com/codthing/updates/2019_may/</link>
+        <link>https://codthing.github.io/updates/2019_may/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:51 +0900</pubDate>
         
-        <guid>https://github.com/codthing/updates/2019_may/</guid>
+        <guid>https://codthing.github.io/updates/2019_may/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Basic Usage</title>
-        <link>https://github.com/codthing/docs/gettingstarted/basicusage/</link>
+        <link>https://codthing.github.io/docs/gettingstarted/basicusage/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:51 +0900</pubDate>
         
-        <guid>https://github.com/codthing/docs/gettingstarted/basicusage/</guid>
+        <guid>https://codthing.github.io/docs/gettingstarted/basicusage/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>April 2019</title>
-        <link>https://github.com/codthing/updates/2019_april/</link>
+        <link>https://codthing.github.io/updates/2019_april/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:48 +0900</pubDate>
         
-        <guid>https://github.com/codthing/updates/2019_april/</guid>
+        <guid>https://codthing.github.io/updates/2019_april/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Configuration</title>
-        <link>https://github.com/codthing/docs/gettingstarted/configuration/</link>
+        <link>https://codthing.github.io/docs/gettingstarted/configuration/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:56 +0900</pubDate>
         
-        <guid>https://github.com/codthing/docs/gettingstarted/configuration/</guid>
+        <guid>https://codthing.github.io/docs/gettingstarted/configuration/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>March 2019</title>
-        <link>https://github.com/codthing/updates/2019_march/</link>
+        <link>https://codthing.github.io/updates/2019_march/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:42 +0900</pubDate>
         
-        <guid>https://github.com/codthing/updates/2019_march/</guid>
+        <guid>https://codthing.github.io/updates/2019_march/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Installation</title>
-        <link>https://github.com/codthing/docs/gettingstarted/installation/</link>
+        <link>https://codthing.github.io/docs/gettingstarted/installation/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:13 +0900</pubDate>
         
-        <guid>https://github.com/codthing/docs/gettingstarted/installation/</guid>
+        <guid>https://codthing.github.io/docs/gettingstarted/installation/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>February 2019</title>
-        <link>https://github.com/codthing/updates/2019_february/</link>
+        <link>https://codthing.github.io/updates/2019_february/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:37 +0900</pubDate>
         
-        <guid>https://github.com/codthing/updates/2019_february/</guid>
+        <guid>https://codthing.github.io/updates/2019_february/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Quick Start</title>
-        <link>https://github.com/codthing/docs/gettingstarted/quickstart/</link>
+        <link>https://codthing.github.io/docs/gettingstarted/quickstart/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:41 +0900</pubDate>
         
-        <guid>https://github.com/codthing/docs/gettingstarted/quickstart/</guid>
+        <guid>https://codthing.github.io/docs/gettingstarted/quickstart/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>January 2019</title>
-        <link>https://github.com/codthing/updates/2019_january/</link>
+        <link>https://codthing.github.io/updates/2019_january/</link>
         <pubDate>Tue, 28 Jan 2020 00:10:09 +0900</pubDate>
         
-        <guid>https://github.com/codthing/updates/2019_january/</guid>
+        <guid>https://codthing.github.io/updates/2019_january/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Adonis.js</title>
-        <link>https://github.com/codthing/nodejs/adonis/adonis/</link>
+        <link>https://codthing.github.io/nodejs/adonis/adonis/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/nodejs/adonis/adonis/</guid>
+        <guid>https://codthing.github.io/nodejs/adonis/adonis/</guid>
         <description>一、初始化 版本要求：Node.js v14 创建项目 yarn create adonis-ts-app hello-adonis 1 2 3 4 5 6 CUSTOMIZE PROJECT &amp;gt; Select the project structure · api &amp;gt; Enter the project name · hello-adonis &amp;gt; Setup eslint? (y/N) · true &amp;gt; Setup prettier? (y/N) » false 启动开发服务器 node ace serve</description>
       </item>
       
       <item>
         <title>Array</title>
-        <link>https://github.com/codthing/javascript/array/array-bp/</link>
+        <link>https://codthing.github.io/javascript/array/array-bp/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/array/array-bp/</guid>
+        <guid>https://codthing.github.io/javascript/array/array-bp/</guid>
         <description>一、四个必备的js数组方法 1. Array.prototype.map() 数组元素更新 创建一个新数组。结果是一个与原数组长度相同的数组，并根据提供的函数转换元素。 1 2 3 4 const arr = [1, 2, 3]; const</description>
       </item>
       
       <item>
         <title>Collect &amp; Ramda</title>
-        <link>https://github.com/codthing/javascript/cr/cr/</link>
+        <link>https://codthing.github.io/javascript/cr/cr/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/cr/cr/</guid>
+        <guid>https://codthing.github.io/javascript/cr/cr/</guid>
         <description>collect.js &amp;amp; ramda（ 处理数组和对象的好帮手 ） Step1. 安装 yarn add collect.js yarn add ramda Step2. 导入 import collect from &amp;#39;collect.js&amp;#39; import * as R from &amp;#39;ramda&amp;#39; Step3. （项目实例，用来渲染多屏，每屏里面有 8 张卡片） 使用 collect.js 示</description>
       </item>
       
       <item>
         <title>CORS 跨域资源共享</title>
-        <link>https://github.com/codthing/others/cors/cors/</link>
+        <link>https://codthing.github.io/others/cors/cors/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/others/cors/cors/</guid>
+        <guid>https://codthing.github.io/others/cors/cors/</guid>
         <description>CORS (跨域资源共享)，它是浏览器获取内容的方式的一部分。 一、没有 CORS 的跨域访问存在不安全问题 这不是我们的错，只能说这是WEB技术发展的历史问题 &amp;lt;script</description>
       </item>
       
       <item>
         <title>Docker</title>
-        <link>https://github.com/codthing/nodejs/docker/docker/</link>
+        <link>https://codthing.github.io/nodejs/docker/docker/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/nodejs/docker/docker/</guid>
+        <guid>https://codthing.github.io/nodejs/docker/docker/</guid>
         <description>1. Docker Docker 是一个开源的应用容器引擎，基于 Go 语言 并遵从 Apache2.0 协议开源。 Docker 可以让开发者打包他们的应用以及依赖包到一个轻量级、可移植的容器中，然后发布到任</description>
       </item>
       
       <item>
         <title>Expo 基础</title>
-        <link>https://github.com/codthing/react-native/expo/expo-base/</link>
+        <link>https://codthing.github.io/react-native/expo/expo-base/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-native/expo/expo-base/</guid>
+        <guid>https://codthing.github.io/react-native/expo/expo-base/</guid>
         <description>一、运行设备 Expo客户端App 浏览器 模拟器(使用genymotion) 下载并安装 Android Studio 3.0+ 在Android Studio中，转到首选项&amp;gt;外</description>
       </item>
       
       <item>
         <title>Next.js 速览</title>
-        <link>https://github.com/codthing/react/next/next-base/</link>
+        <link>https://codthing.github.io/react/next/next-base/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/next/next-base/</guid>
+        <guid>https://codthing.github.io/react/next/next-base/</guid>
         <description>Next.js：React 框架 Next.js 提供生产所需的所有功能的最佳开发人员体验：混合静态和服务器渲染、TypeScript 支持、智能捆绑、路由预取</description>
       </item>
       
       <item>
         <title>Nginx</title>
-        <link>https://github.com/codthing/nodejs/nginx/nginx/</link>
+        <link>https://codthing.github.io/nodejs/nginx/nginx/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/nodejs/nginx/nginx/</guid>
+        <guid>https://codthing.github.io/nodejs/nginx/nginx/</guid>
         <description></description>
       </item>
       
       <item>
         <title>Prisma ORM</title>
-        <link>https://github.com/codthing/nodejs/orm/prisma/</link>
+        <link>https://codthing.github.io/nodejs/orm/prisma/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/nodejs/orm/prisma/</guid>
+        <guid>https://codthing.github.io/nodejs/orm/prisma/</guid>
         <description>Prisma Prisma 是一个开源的下一代 ORM。它由以下部分组成： Prisma 客户端：用于 Node.js 和 TypeScript 的自动生成和类型安全的查询构建器 Prisma Migrate : 迁移系统 Prisma Studio：用于查看和</description>
       </item>
       
       <item>
         <title>React &amp; Redux</title>
-        <link>https://github.com/codthing/react/redux/react-redux/</link>
+        <link>https://codthing.github.io/react/redux/react-redux/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/redux/react-redux/</guid>
+        <guid>https://codthing.github.io/react/redux/react-redux/</guid>
         <description>这两种技术的关键原则是什么? React 是提供数据的视图库，能以高效、可预测的方式渲染视图。 Redux 是状态管理框架，可用于简化 APP 应用状态的管理。 在 React Redux app 应用</description>
       </item>
       
       <item>
         <title>React 基础</title>
-        <link>https://github.com/codthing/react/react/react-base/</link>
+        <link>https://codthing.github.io/react/react/react-base/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/react/react-base/</guid>
+        <guid>https://codthing.github.io/react/react/react-base/</guid>
         <description>简介：React 是由 Facebook 创建和维护的开源视图库。 它是渲染现代 Web 应用程序用户界面（UI）的好工具。 一、JSX（JS 语法扩展） React 使用名为 JSX 的 JavaScript 语法</description>
       </item>
       
       <item>
         <title>React 最佳实践</title>
-        <link>https://github.com/codthing/react/react/react-bp/</link>
+        <link>https://codthing.github.io/react/react/react-bp/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/react/react-bp/</guid>
+        <guid>https://codthing.github.io/react/react/react-bp/</guid>
         <description>React 是一个声明式、高效且灵活的 JavaScript 库 一、特性 虚拟 DOM：保存在内存中并通过 ReactDOM 等库与“真实”DOM 同步的 UI 表示。使用这种方法，只有实际更改的组件才</description>
       </item>
       
       <item>
         <title>React-Native 基础</title>
-        <link>https://github.com/codthing/react-native/react-native/rn-base/</link>
+        <link>https://codthing.github.io/react-native/react-native/rn-base/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-native/react-native/rn-base/</guid>
+        <guid>https://codthing.github.io/react-native/react-native/rn-base/</guid>
         <description>开发平台：Windows 目标平台：Android ReactNative 版本：0.62.2 一、安装依赖 Node (&amp;gt;=12) Python2 (Windows x86 MSI installer) Java SE Development Kit (JDK) (1.8 版本) 注意：要最新版本，要时常更新</description>
       </item>
       
       <item>
         <title>Redux</title>
-        <link>https://github.com/codthing/react/redux/redux-base/</link>
+        <link>https://codthing.github.io/react/redux/redux-base/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/redux/redux-base/</guid>
+        <guid>https://codthing.github.io/react/redux/redux-base/</guid>
         <description>Redux 是一个状态管理框架， 但我觉得它同时也是一门语言，因为它有自己的一套行事规则。 Redux 代码库本身很小，核心概念也很简洁明了，但是它的 “语言” 却不寻</description>
       </item>
       
       <item>
         <title>Rust</title>
-        <link>https://github.com/codthing/rust/rust-base/</link>
+        <link>https://codthing.github.io/rust/rust-base/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/rust/rust-base/</guid>
+        <guid>https://codthing.github.io/rust/rust-base/</guid>
         <description>高级人体工程学和低级控制在编程语言设计中往往是不一致的；Rust 挑战了这种冲突。 一、安装 下载安装器，然后运行该程序并遵循屏幕上的指示。 二、获</description>
       </item>
       
       <item>
         <title>Storybook 最佳实践</title>
-        <link>https://github.com/codthing/react/storybook/sb-bp/</link>
+        <link>https://codthing.github.io/react/storybook/sb-bp/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/storybook/sb-bp/</guid>
+        <guid>https://codthing.github.io/react/storybook/sb-bp/</guid>
         <description>一、安装配置 在next.js项目中执行 npx sb init yarn storybook .storybook/preview.js 为 Storybook 配置 Next.js Images + import * as NextImage from &amp;#34;next/image&amp;#34;; + const OriginalNextImage = NextImage.default; + Object.defineProperty(NextImage, &amp;#34;default&amp;#34;, { configurable: true, value: (props) =&amp;gt; ( &amp;lt;OriginalNextImage {...props} unoptimized /&amp;gt; ), }); package.json 为 Storybook 提供 Next.js 公共目录 {</description>
       </item>
       
       <item>
         <title>UI-Kitten 基础</title>
-        <link>https://github.com/codthing/react-native/ui/ui-kitten/kitten-base/</link>
+        <link>https://codthing.github.io/react-native/ui/ui-kitten/kitten-base/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-native/ui/ui-kitten/kitten-base/</guid>
+        <guid>https://codthing.github.io/react-native/ui/ui-kitten/kitten-base/</guid>
         <description>一、安装 //确保已安装 React Native CLI npm un -g react-native-cli &amp;amp;&amp;amp; npm i -g @react-native-community/cli //用 Kitten 模板创建新项目 npx react-native init MyApp --template @ui-kitten/template-js //启动应用 yarn android 二、配置路由（配置应用程序在屏幕之间导航，基</description>
       </item>
       
       <item>
         <title>介绍</title>
-        <link>https://github.com/codthing/react/storybook/sb-started/sb-introduction/</link>
+        <link>https://codthing.github.io/react/storybook/sb-started/sb-introduction/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/storybook/sb-started/sb-introduction/</guid>
+        <guid>https://codthing.github.io/react/storybook/sb-started/sb-introduction/</guid>
         <description>Storybook 是一个用于 UI 开发的工具。 它通过隔离组件使开发更快更容易。 一次处理一个组件。 可以开发整个 UI，而无需启动复杂的开发堆栈、将某些数据强制输入数</description>
       </item>
       
       <item>
         <title>介绍</title>
-        <link>https://github.com/codthing/react/storybook/sb-test/sb-test-introduction/</link>
+        <link>https://codthing.github.io/react/storybook/sb-test/sb-test-introduction/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/storybook/sb-test/sb-test-introduction/</guid>
+        <guid>https://codthing.github.io/react/storybook/sb-test/sb-test-introduction/</guid>
         <description>如何使用 Storybook 测试 UI Storybook 为隔离测试组件提供了一个洁净室环境。 无论多么复杂，故事都可以轻松探索组件的所有变体。 这意味着故事是 UI 测试策略的实用起点。 将</description>
       </item>
       
       <item>
         <title>优化加载顺序</title>
-        <link>https://github.com/codthing/react-patterns/performance-patterns/loading-sequence/</link>
+        <link>https://codthing.github.io/react-patterns/performance-patterns/loading-sequence/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/performance-patterns/loading-sequence/</guid>
+        <guid>https://codthing.github.io/react-patterns/performance-patterns/loading-sequence/</guid>
         <description>注意：本文深受 Chrome 中 Aurora 团队的见解的影响，尤其是 Shubhie Panicker，他一直在研究最佳加载顺序。 在每个成功的网页加载中，一些关键组件和资源会在适当</description>
       </item>
       
       <item>
         <title>函数式编程理念</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/function-programming/fn-programming/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/function-programming/fn-programming/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/function-programming/fn-programming/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/function-programming/fn-programming/</guid>
         <description>一、概述 函数式编程是一种方案简单、功能独立、对作用域外没有任何副作用的编程范式：INPUT -&amp;gt; PROCESS -&amp;gt; OUTPUT 函数式编程： 1）功能独立 —— 不依赖于程序的</description>
       </item>
       
       <item>
         <title>原型链和继承</title>
-        <link>https://github.com/codthing/javascript/prototype/prototype-bp/</link>
+        <link>https://codthing.github.io/javascript/prototype/prototype-bp/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/prototype/prototype-bp/</guid>
+        <guid>https://codthing.github.io/javascript/prototype/prototype-bp/</guid>
         <description>一、关键字 对象 object：是数据的集合 原型继承 构造器 原型链 子类继承 JavaScript 中的（几乎）一切都是对象，除了原始值以外（number,string,</description>
       </item>
       
       <item>
         <title>在 JavaScript 中实现单例</title>
-        <link>https://github.com/codthing/javascript/function/single/</link>
+        <link>https://codthing.github.io/javascript/function/single/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/function/single/</guid>
+        <guid>https://codthing.github.io/javascript/function/single/</guid>
         <description>单例是一种面向对象的软件设计模式，它确保给定的类只被实例化一次。 比如，数据库连接。 Proxy Proxy 对象用于创建一个对象的代理，从而实现基本操作的拦截和自</description>
       </item>
       
       <item>
         <title>如何开发功能和解决问题</title>
-        <link>https://github.com/codthing/others/devmethod/devmethod/</link>
+        <link>https://codthing.github.io/others/devmethod/devmethod/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/others/devmethod/devmethod/</guid>
+        <guid>https://codthing.github.io/others/devmethod/devmethod/</guid>
         <description>一、收集需求 第一步也是最重要的一步是收集所有需求。 我们生活在一个非常复杂的世界中，不同背景的人可以帮助我们填补空白（自己的局限性）。 因此，应</description>
       </item>
       
       <item>
         <title>安装</title>
-        <link>https://github.com/codthing/react/tailwindcss/tailwindcss-start.md/tailwindcss-install/</link>
+        <link>https://codthing.github.io/react/tailwindcss/tailwindcss-start.md/tailwindcss-install/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/tailwindcss/tailwindcss-start.md/tailwindcss-install/</guid>
+        <guid>https://codthing.github.io/react/tailwindcss/tailwindcss-start.md/tailwindcss-install/</guid>
         <description>VSCode 插件 PostCSS Language Support Tailwind CSS IntelliSense Next.js + TailwindCSS 在 Next.js v10+ 项目中设置 Tailwind CSS Step1. 创建项目 1 2 yarn create next-app --typescript Step2. 安装Tailwind CSS tailwindcss 通过 yarn 安装及其对等依赖项，然后运行 ​​init 命</description>
       </item>
       
       <item>
         <title>快速开始</title>
-        <link>https://github.com/codthing/nodejs/nodebase/node-start/</link>
+        <link>https://codthing.github.io/nodejs/nodebase/node-start/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/nodejs/nodebase/node-start/</guid>
+        <guid>https://codthing.github.io/nodejs/nodebase/node-start/</guid>
         <description>Node.js 简介 Node.js 是一个开源的跨平台 JavaScript 运行时环境。 Node.js 在浏览器之外运行 V8 JavaScript 引擎，它是 Google Chrome 的核心。 Node.js 应用程序在单个进程中运行，无需为每个请求创建一个新线程</description>
       </item>
       
       <item>
         <title>渲染模式介绍</title>
-        <link>https://github.com/codthing/react-patterns/render-patterns/render-patterns-base/</link>
+        <link>https://codthing.github.io/react-patterns/render-patterns/render-patterns-base/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/render-patterns/render-patterns-base/</guid>
+        <guid>https://codthing.github.io/react-patterns/render-patterns/render-patterns-base/</guid>
         <description>介绍 如今，可以通过多种方式在 Web 上呈现内容。 如何以及在何处获取和呈现内容的决定是应用程序性能的关键。 可用的框架和库可用于实现不同的渲染模式，如</description>
       </item>
       
       <item>
         <title>解构赋值</title>
-        <link>https://github.com/codthing/javascript/array/jiegou/</link>
+        <link>https://codthing.github.io/javascript/array/jiegou/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/array/jiegou/</guid>
+        <guid>https://codthing.github.io/javascript/array/jiegou/</guid>
         <description>1. 忽略值 1 2 3 const [apple, , banana] = [&amp;#39;apple&amp;#39;, &amp;#39;pear&amp;#39;, &amp;#39;banana&amp;#39;]; console.log(apple, banana); // apple banana 2. 分配剩余值 1 2 3 4 5 6 const [one, two, ...remainingNum] = [1, 2, 3, 4, 5]; console.log(remainingNum); // [3, 4, 5] const { apple, pear, ...remainFruits } = { apple:&amp;#39;apple&amp;#39;, pear:&amp;#39;pear&amp;#39;, banana:&amp;#39;banana&amp;#39;, cherry:&amp;#39;cherry&amp;#39; }; console.log(remainFruits); // { banana:&amp;#39;banana&amp;#39;, cherry:&amp;#39;cherry&amp;#39; } 3. 组合的</description>
       </item>
       
       <item>
         <title>设计模式介绍</title>
-        <link>https://github.com/codthing/react-patterns/design-patterns/design-patterns/</link>
+        <link>https://codthing.github.io/react-patterns/design-patterns/design-patterns/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/design-patterns/design-patterns/</guid>
+        <guid>https://codthing.github.io/react-patterns/design-patterns/design-patterns/</guid>
         <description>注意：菜单项目中（X）的都为过时或者不建议使用的模式，依然写出来只是为了让我们了解历史 设计模式是软件开发的基本部分， 因为它们为软件设计中经常</description>
       </item>
       
       <item>
         <title>Array.prototype.map()</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/function-programming/map-programming/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/function-programming/map-programming/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/function-programming/map-programming/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/function-programming/map-programming/</guid>
         <description>map() 方法创建一个新数组，其中填充了对调用数组中的每个元素调用提供的函数的结果。 使用 map 方法从数组中提取数据 目前为止，已经使用纯函数来避免程序中的</description>
       </item>
       
       <item>
         <title>Expo 最佳实践</title>
-        <link>https://github.com/codthing/react-native/expo/expo-bp/</link>
+        <link>https://codthing.github.io/react-native/expo/expo-bp/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-native/expo/expo-bp/</guid>
+        <guid>https://codthing.github.io/react-native/expo/expo-bp/</guid>
         <description>一、创建项目 expo init MyProject 创建项目，选择托管工作流的TypeScript的空白模板，然后用 expo eject 退出到裸漏工作流。 之所以选择这种方式创建项目，是因为灵</description>
       </item>
       
       <item>
         <title>Hooks 最佳实践</title>
-        <link>https://github.com/codthing/react/hooks/hooks-bp/</link>
+        <link>https://codthing.github.io/react/hooks/hooks-bp/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/hooks/hooks-bp/</guid>
+        <guid>https://codthing.github.io/react/hooks/hooks-bp/</guid>
         <description>Hook 是 React 16.8 的新增特性。它可以让你在不编写 class 的情况下使用 state 以及其他的 React 特性。 Hook 是一些可以让你在函数组件里“钩入” React state 及生命周期等特性的函数。 Hook 使</description>
       </item>
       
       <item>
         <title>Next.js 各种组合</title>
-        <link>https://github.com/codthing/react/next/next-multiple/</link>
+        <link>https://codthing.github.io/react/next/next-multiple/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/next/next-multiple/</guid>
+        <guid>https://codthing.github.io/react/next/next-multiple/</guid>
         <description>Next.js 与各种技术栈的组合 Next.js + TailwindCSS + SB + zustand 注意： 不支持IE浏览器 1. VSCode 插件 PostCSS Language Support Tailwind CSS IntelliSense 2. TailwindCSS 在 Next.js v10+ 项目中设置 Tailwind CSS Step1. 创建项目 1 2 yarn create next-app --typescript Step2. 安装Tailwi</description>
       </item>
       
       <item>
         <title>React-Native 最佳实践</title>
-        <link>https://github.com/codthing/react-native/react-native/rn-bp/</link>
+        <link>https://codthing.github.io/react-native/react-native/rn-bp/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-native/react-native/rn-bp/</guid>
+        <guid>https://codthing.github.io/react-native/react-native/rn-bp/</guid>
         <description>一、将.pk8 和.pem 转换成 react-native 的 debug.keystore Step1. 安装 openssl 参考：https://stackoverflow.com/questions/42918916/</description>
       </item>
       
       <item>
         <title>React.js 概述</title>
-        <link>https://github.com/codthing/react-patterns/render-patterns/overview-react/</link>
+        <link>https://codthing.github.io/react-patterns/render-patterns/overview-react/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/render-patterns/overview-react/</guid>
+        <guid>https://codthing.github.io/react-patterns/render-patterns/overview-react/</guid>
         <description>React 简介 多年来，对使用 JavaScript 编写用户界面的直接方法的需求不断增加。 React，也称为 React.js，是 Facebook 设计的开源 JavaScript 库，用于构建用户界面或 UI 组件</description>
       </item>
       
       <item>
         <title>UI-Kitten 最佳实践</title>
-        <link>https://github.com/codthing/react-native/ui/ui-kitten/kitten-bp/</link>
+        <link>https://codthing.github.io/react-native/ui/ui-kitten/kitten-bp/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-native/ui/ui-kitten/kitten-bp/</guid>
+        <guid>https://codthing.github.io/react-native/ui/ui-kitten/kitten-bp/</guid>
         <description>一、DrawerGroup （UI-Kitten ） DrawerGroup 导航问题 xxx 这个问题没有解决 UI-Kitten Version@5.0.0 @ui-kitten/components DrawerGroup const DrawerContent = ({ navigation, state }) =&amp;gt; { const routes = [//1.定义对应的组件（组件名</description>
       </item>
       
       <item>
         <title>webpack 基础</title>
-        <link>https://github.com/codthing/others/webpack/webpack-base/</link>
+        <link>https://codthing.github.io/others/webpack/webpack-base/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/others/webpack/webpack-base/</guid>
+        <guid>https://codthing.github.io/others/webpack/webpack-base/</guid>
         <description>一、入口 （entry） #.单个入口（简写/数组）语法 用法：entry: string | [string] 优缺点：通过一个入口（例如一个库）为应用程序设置 webpack 配置时，单一入</description>
       </item>
       
       <item>
         <title>webpack 实践</title>
-        <link>https://github.com/codthing/others/webpack/webpack-adv/</link>
+        <link>https://codthing.github.io/others/webpack/webpack-adv/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/others/webpack/webpack-adv/</guid>
+        <guid>https://codthing.github.io/others/webpack/webpack-adv/</guid>
         <description>静态网站，多个html页面（非SPA），WebPack配置 (基础篇) Step1. 初始化项目 mkdir multiple-htmlpages &amp;amp;&amp;amp; cd multiple-htmlpages yarn init yarn add -D webpack webpack-cli webpack-dev-server html-webpack-plugin mkdir src &amp;amp;&amp;amp; cd src echo &amp;gt;index.html echo &amp;gt;index.js //index</description>
       </item>
       
       <item>
         <title>单例模式</title>
-        <link>https://github.com/codthing/react-patterns/design-patterns/single-patterns/</link>
+        <link>https://codthing.github.io/react-patterns/design-patterns/single-patterns/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/design-patterns/single-patterns/</guid>
+        <guid>https://codthing.github.io/react-patterns/design-patterns/single-patterns/</guid>
         <description>单例（统一用名词 Singleton 代替）是可以实例化一次的类，并且可以全局访问。单个实例可以在整个应用程序中共享，非常适合管理应用程序中的全局状态。 计数器案</description>
       </item>
       
       <item>
         <title>命令式 vs 函数式 vs 链式</title>
-        <link>https://github.com/codthing/javascript/function/for/</link>
+        <link>https://codthing.github.io/javascript/function/for/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/function/for/</guid>
+        <guid>https://codthing.github.io/javascript/function/for/</guid>
         <description>这里用 For 循环举例 命令式 1 2 3 4 5 6 7 8 9 10 11 12 13 const files = [&amp;#34;foo.txt &amp;#34;, &amp;#34;.bar&amp;#34;, &amp;#34; &amp;#34;, &amp;#34;baz.foo&amp;#34;]; let filePaths = []; for (let file of files) { const fileName = file.trim(); if (fileName) { const filePath = `~/cool_app/${fileName}`; filePaths.push(filePath); } } // filePaths = [ &amp;#39;~/cool_app/foo.txt&amp;#39;, &amp;#39;~/cool_app/.bar&amp;#39;, &amp;#39;~/cool_app/baz.foo&amp;#39;] 函数式 封装性</description>
       </item>
       
       <item>
         <title>基本的JS对象（字面量对象）</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/object-programming/create-object/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/object-programming/create-object/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/object-programming/create-object/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/object-programming/create-object/</guid>
         <description>一、创建对象（字面量对象） 1 2 3 4 let duck = { name: &amp;#34;Aflac&amp;#34;, numLegs: 2 } 这个 duck 对象有两组键值对：一个是 name 属性，它的值是 Aflac；另一个是 numLegs 属性，它的值是 2。 二</description>
       </item>
       
       <item>
         <title>字面量 vs 构造器 vs class</title>
-        <link>https://github.com/codthing/javascript/function/new/</link>
+        <link>https://codthing.github.io/javascript/function/new/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/function/new/</guid>
+        <guid>https://codthing.github.io/javascript/function/new/</guid>
         <description>Object 概述 Object 是 JavaScript 的一种 数据类型 。它用于存储各种键值集合和更复杂的实体。 Objects 可以通过 对象字面量、构造函数 或者 class 的方式创建 一、对象字面量 （{&amp;hell</description>
       </item>
       
       <item>
         <title>安装</title>
-        <link>https://github.com/codthing/react/storybook/sb-started/sb-install/</link>
+        <link>https://codthing.github.io/react/storybook/sb-started/sb-install/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/storybook/sb-started/sb-install/</guid>
+        <guid>https://codthing.github.io/react/storybook/sb-started/sb-install/</guid>
         <description>在现有项目的根目录中运行： npx sb init 运行： yarn storybook</description>
       </item>
       
       <item>
         <title>异步编程</title>
-        <link>https://github.com/codthing/nodejs/nodebase/node-programming/</link>
+        <link>https://codthing.github.io/nodejs/nodebase/node-programming/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/nodejs/nodebase/node-programming/</guid>
+        <guid>https://codthing.github.io/nodejs/nodebase/node-programming/</guid>
         <description>JavaScript 默认是同步的，并且是单线程的。这意味着代码不能创建新线程并并行运行。 一行一行的代码依次执行，例如： 1 2 3 4 5 6 const a = 1 const b = 2 const c = a * b</description>
       </item>
       
       <item>
         <title>箭头函数 vs 常规函数</title>
-        <link>https://github.com/codthing/javascript/function/arrow/</link>
+        <link>https://codthing.github.io/javascript/function/arrow/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/function/arrow/</guid>
+        <guid>https://codthing.github.io/javascript/function/arrow/</guid>
         <description>JavaScript 的箭头函数从表面上看可能与常规函数相同，但它们有一些非常重要的区别： 关键区别 语法 this 值（执行上下文） 用作类方法 用作构造函数 arguments 参数绑定 #. 语法 1</description>
       </item>
       
       <item>
         <title>视觉测试</title>
-        <link>https://github.com/codthing/react/storybook/sb-test/sb-visual-tests/</link>
+        <link>https://codthing.github.io/react/storybook/sb-test/sb-visual-tests/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/storybook/sb-test/sb-visual-tests/</guid>
+        <guid>https://codthing.github.io/react/storybook/sb-test/sb-visual-tests/</guid>
         <description>视觉测试 可视化测试，也称为可视化回归测试，可捕获 UI 外观中的错误。 通过截取每个故事的屏幕截图并将它们提交进行比较以识别更改来工作。 非常适合验证</description>
       </item>
       
       <item>
         <title>闭包、递归和回调</title>
-        <link>https://github.com/codthing/javascript/function/callback/</link>
+        <link>https://codthing.github.io/javascript/function/callback/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/function/callback/</guid>
+        <guid>https://codthing.github.io/javascript/function/callback/</guid>
         <description>闭包 涉及变量作用域 内部函数使用外部函数的变量 1 2 3 4 5 6 7 8 9 10 11 12 13 function outerFunc() { const outerVal = 100; function interFunc() { console.log(outerVal); } return interFunc; // 记得返回你的内部函数 } const inter = outerFunc(); inter(); //100 递归 自</description>
       </item>
       
       <item>
         <title>静态导入</title>
-        <link>https://github.com/codthing/react-patterns/performance-patterns/static-import/</link>
+        <link>https://codthing.github.io/react-patterns/performance-patterns/static-import/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/performance-patterns/static-import/</guid>
+        <guid>https://codthing.github.io/react-patterns/performance-patterns/static-import/</guid>
         <description>import 关键字允许导入由另一个模块导出的代码。 默认情况下，静态导入的所有模块都会添加到初始包中。 使用默认的 ES2015 导入语法 import module from &#39;module&#39; 导入的模块是静态导入的</description>
       </item>
       
       <item>
         <title>Array.prototype.filter()</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/function-programming/filter-programming/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/function-programming/filter-programming/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/function-programming/filter-programming/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/function-programming/filter-programming/</guid>
         <description>filter() 方法创建一个新数组，其中包含通过提供的函数实现的测试的所有元素。 使用 filter 方法从数组中提取数据 另一个有用的数组方法是 filter()（即 Arr</description>
       </item>
       
       <item>
         <title>Git 最佳实践</title>
-        <link>https://github.com/codthing/others/git/git-bp/</link>
+        <link>https://codthing.github.io/others/git/git-bp/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/others/git/git-bp/</guid>
+        <guid>https://codthing.github.io/others/git/git-bp/</guid>
         <description>一、OpenSSL SSL_connect git clone/git pull/git push 报错 fatal: unable to access &#39;https://github.com/xxx.git/&#39;: OpenSSL SSL_connect: Connection was reset in connection to github.com:443 解决办法：这个办法可以让git速度更快。 git config --global --add remote.origin.proxy &amp;#34;127.0.0.1:(proxy http port number)&amp;#34; //我的是 git config --global --add remote.origin.proxy &amp;#34;127.0.0.1:1080&amp;#34;</description>
       </item>
       
       <item>
         <title>Hooks &amp; Redux</title>
-        <link>https://github.com/codthing/react/redux/hooks-redux/</link>
+        <link>https://codthing.github.io/react/redux/hooks-redux/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/redux/hooks-redux/</guid>
+        <guid>https://codthing.github.io/react/redux/hooks-redux/</guid>
         <description>现在，有了 Hooks, 甚至可以自己编写 Reducer，通过 Proxy 对状态进行操作。 但是，为了更融入市场而且现在有了 Redux Tookit（可以减少很多代码量），所以</description>
       </item>
       
       <item>
         <title>Next.js 概述</title>
-        <link>https://github.com/codthing/react-patterns/render-patterns/overview-next/</link>
+        <link>https://codthing.github.io/react-patterns/render-patterns/overview-next/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/render-patterns/overview-next/</guid>
+        <guid>https://codthing.github.io/react-patterns/render-patterns/overview-next/</guid>
         <description>Next.js 简介 Next.js 由 Vercel 创建，是一个混合 React 应用程序的框架。 通常很难理解加载内容的所有不同方式。 Next.js 将其抽象化以使其尽可能简单。 该框架允许构建可扩展、高性能</description>
       </item>
       
       <item>
         <title>react-native-static-server</title>
-        <link>https://github.com/codthing/react-native/react-native/react-native-static-server/</link>
+        <link>https://codthing.github.io/react-native/react-native/react-native-static-server/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-native/react-native/react-native-static-server/</guid>
+        <guid>https://codthing.github.io/react-native/react-native/react-native-static-server/</guid>
         <description>搭建本地静态服务器和使用本地静态资源， 需要在expo弹出的裸漏工作流中 Step1. 配置android文件 /android/app/build.gradle 中添加 sourceSets { main { assets.srcDirs = [&#39;src/main/assets&#39;,&#39;../../assets&#39;]}} android { compileSdkVersion rootProject.ext.compileSdkVersion compileOptions { sourceCompatibility JavaVersion.VERSION_1_8 targetCompatibility JavaVersion.VERSION_1_8 } defaultConfig</description>
       </item>
       
       <item>
         <title>React-Navigation</title>
-        <link>https://github.com/codthing/react-native/expo/react-navigation/</link>
+        <link>https://codthing.github.io/react-native/expo/react-navigation/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-native/expo/react-navigation/</guid>
+        <guid>https://codthing.github.io/react-native/expo/react-navigation/</guid>
         <description>一、goBack()返回上一屏幕刷新状态的方法 通过路由传递数据时，当向同一个页面（详情页）传递一些唯一数据，使用push，而不是 naviga</description>
       </item>
       
       <item>
         <title>Story 是什么？</title>
-        <link>https://github.com/codthing/react/storybook/sb-started/sb-what/</link>
+        <link>https://codthing.github.io/react/storybook/sb-started/sb-what/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/storybook/sb-started/sb-what/</guid>
+        <guid>https://codthing.github.io/react/storybook/sb-started/sb-what/</guid>
         <description>Story 介绍 Story（故事）捕获 UI 组件的呈现状态。 开发人员为每个组件编写多个故事，描述组件可以支持的所有“有趣”状态。 每个组件都有一组故事，显示</description>
       </item>
       
       <item>
         <title>zustand</title>
-        <link>https://github.com/codthing/react/zustand/zustand-base/</link>
+        <link>https://codthing.github.io/react/zustand/zustand-base/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/zustand/zustand-base/</guid>
+        <guid>https://codthing.github.io/react/zustand/zustand-base/</guid>
         <description>zustand 基于 hooks 的 api，小型、快速且可扩展的状态管理解决方案。 一、安装 yarn add zustand 二、最简使用方法 Step1. 创建一个 Store store 是一个钩子！ 可以在里面放任何东西：原始数</description>
       </item>
       
       <item>
         <title>代理模式</title>
-        <link>https://github.com/codthing/react-patterns/design-patterns/proxy-patterns/</link>
+        <link>https://codthing.github.io/react-patterns/design-patterns/proxy-patterns/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/design-patterns/proxy-patterns/</guid>
+        <guid>https://codthing.github.io/react-patterns/design-patterns/proxy-patterns/</guid>
         <description>使用 Proxy 对象，可以更好地控制与某些对象的交互。 每当与对象交互时，代理对象都可以确定行为，例如当我们获取一个值或设置一个值时。 一般来说，代理是指</description>
       </item>
       
       <item>
         <title>动态导入</title>
-        <link>https://github.com/codthing/react-patterns/performance-patterns/dynamic-import/</link>
+        <link>https://codthing.github.io/react-patterns/performance-patterns/dynamic-import/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/performance-patterns/dynamic-import/</guid>
+        <guid>https://codthing.github.io/react-patterns/performance-patterns/dynamic-import/</guid>
         <description>在聊天应用程序中，有四个主要部分：UserInfo，ChatList，ChatInput和EmojiPicker。 但是，在初始页面加载时，只</description>
       </item>
       
       <item>
         <title>可访问性测试</title>
-        <link>https://github.com/codthing/react/storybook/sb-test/sb-accessibility-testing/</link>
+        <link>https://codthing.github.io/react/storybook/sb-test/sb-accessibility-testing/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/storybook/sb-test/sb-accessibility-testing/</guid>
+        <guid>https://codthing.github.io/react/storybook/sb-test/sb-accessibility-testing/</guid>
         <description>可访问性是使网站包容所有人的做法。 这意味着支持例如：键盘导航、屏幕阅读器支持、触摸友好、可用的颜色对比度、减少运动和缩放支持。 可访问性测试根</description>
       </item>
       
       <item>
         <title>引擎和运行方式</title>
-        <link>https://github.com/codthing/nodejs/nodebase/node-engine/</link>
+        <link>https://codthing.github.io/nodejs/nodebase/node-engine/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/nodejs/nodebase/node-engine/</guid>
+        <guid>https://codthing.github.io/nodejs/nodebase/node-engine/</guid>
         <description>一、V8 JavaScript 引擎 V8 是支持 Google Chrome 的 JavaScript 引擎的名称。 V8 是用 C++ 编写的。它是便携式的，可在 Mac、Windows、Linux 和其他几个系统上运行。。 很酷的</description>
       </item>
       
       <item>
         <title>构造函数</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/object-programming/constructor-fn/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/object-programming/constructor-fn/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/object-programming/constructor-fn/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/object-programming/constructor-fn/</guid>
         <description>一、定义构造函数 Constructors 是创建对象的函数。 函数给这个新对象定义属性和行为。 可将它们视为创建的新对象的蓝图。 1 2 3 4 5 function Bird() { this.name = &amp;#34;Albert&amp;#34;; this.color = &amp;#34;blue&amp;#34;; this.numLegs = 2; } 这个</description>
       </item>
       
       <item>
         <title>浏览故事</title>
-        <link>https://github.com/codthing/react/storybook/sb-started/sb-browse/</link>
+        <link>https://codthing.github.io/react/storybook/sb-started/sb-browse/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/storybook/sb-started/sb-browse/</guid>
+        <guid>https://codthing.github.io/react/storybook/sb-started/sb-browse/</guid>
         <description>如何使用 Storybook 作为构建组件的工作区。 侧边栏和 Canvas（画布） *.stories.ts 文件定义了一个组件的所有故事。 每个故事都有一个相应的侧边栏项目。 当单击一个故事</description>
       </item>
       
       <item>
         <title>错误处理，try{...}catch{...}</title>
-        <link>https://github.com/codthing/javascript/function/try-catch/</link>
+        <link>https://codthing.github.io/javascript/function/try-catch/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/function/try-catch/</guid>
+        <guid>https://codthing.github.io/javascript/function/try-catch/</guid>
         <description>try&amp;hellip;catch语句标记要尝试的语句块，并指定一个出现异常时抛出的响应。 1 2 3 4 5 6 7 8 9 10 11 try { // 尝试运行这段代码 } catch(err) { //</description>
       </item>
       
       <item>
         <title>Array.prototype.slice()</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/function-programming/slice-programming/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/function-programming/slice-programming/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/function-programming/slice-programming/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/function-programming/slice-programming/</guid>
         <description>slice() 方法将数组的一部分的浅拷贝返回到从开始到结束（不包括结束）选择的新数组对象中，其中开始和结束表示该数组中项目的索引。 不会修改原始数组。 使用</description>
       </item>
       
       <item>
         <title>expo-video-player</title>
-        <link>https://github.com/codthing/react-native/expo/expo-video-player/</link>
+        <link>https://codthing.github.io/react-native/expo/expo-video-player/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-native/expo/expo-video-player/</guid>
+        <guid>https://codthing.github.io/react-native/expo/expo-video-player/</guid>
         <description>expo-video-player Step.1 安装 expo install expo-video-player expo install expo-av @react-native-community/netinfo @react-native-community/slider Step.2 使用 import { Video } from &amp;#39;expo-av&amp;#39; import VideoPlayer from &amp;#39;expo-video-player&amp;#39; &amp;lt;VideoPlayer videoProps={{ shouldPlay: true, resizeMode: Video.RESIZE_MODE_CONTAIN, source: { uri: &amp;#39;http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4&amp;#39;, }, }} inFullscreen={true} /&amp;gt; 视频列表解决思路 用图片作为列表 用model模态框作为全屏视频播</description>
       </item>
       
       <item>
         <title>IIS PHP</title>
-        <link>https://github.com/codthing/others/php/iisphp/</link>
+        <link>https://codthing.github.io/others/php/iisphp/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/others/php/iisphp/</guid>
+        <guid>https://codthing.github.io/others/php/iisphp/</guid>
         <description>Windows Server 2012 R2 x64 IIS服务器 PHP环境搭建 阿里云服务器ECS Windows Server 2012 R2 64位中文标准版下手动搭建PHP环境。 IIS8.5 + MySQL5.6.15 + PHP5.5.19 + FastCGI + phpMyAdmin4.2.12 特别注意：服务器内存不</description>
       </item>
       
       <item>
         <title>Promise, async/await</title>
-        <link>https://github.com/codthing/javascript/function/promise/</link>
+        <link>https://codthing.github.io/javascript/function/promise/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/function/promise/</guid>
+        <guid>https://codthing.github.io/javascript/function/promise/</guid>
         <description>一、Promise 概述 Promise 对象用于表示一个异步操作的最终完成 (或失败)及其结果值。 #. Promise 有 3 个状态 待定（pending）: 初始状态，既没有被兑现</description>
       </item>
       
       <item>
         <title>Recoil 最佳实践</title>
-        <link>https://github.com/codthing/react/recoil/recoil-bp/</link>
+        <link>https://codthing.github.io/react/recoil/recoil-bp/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/recoil/recoil-bp/</guid>
+        <guid>https://codthing.github.io/react/recoil/recoil-bp/</guid>
         <description>Recoil 是 React 官方 meta (facebook) 官方实验室的状态管理库，贴合 React hooks，自由度很高，所以要在项目中做一些规范，以便提供最佳的实践。 官方文档有对核心概念的解释</description>
       </item>
       
       <item>
         <title>原型</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/object-programming/prototype/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/object-programming/prototype/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/object-programming/prototype/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/object-programming/prototype/</guid>
         <description>一、了解自有属性 hasOwnProperty 下面的实例，Bird 构造函数定义了两个属性：name 和 numLegs： 1 2 3 4 5 6 7 8 function Bird(name) { this.name = name; this.numLegs = 2; } let duck = new Bird(&amp;#34;Donald&amp;#34;); let canary =</description>
       </item>
       
       <item>
         <title>客户端渲染</title>
-        <link>https://github.com/codthing/react-patterns/render-patterns/client-side-rendering/</link>
+        <link>https://codthing.github.io/react-patterns/render-patterns/client-side-rendering/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/render-patterns/client-side-rendering/</guid>
+        <guid>https://codthing.github.io/react-patterns/render-patterns/client-side-rendering/</guid>
         <description>在客户端呈现 (CSR) 中，服务器仅呈现页面的准系统 HTML 容器。 在页面上显示内容所需的逻辑、数据获取、模板和路由由在浏览器/客户端中执行的 JavaScript 代码处理。 CSR 作</description>
       </item>
       
       <item>
         <title>导入可见性</title>
-        <link>https://github.com/codthing/react-patterns/performance-patterns/import-on-visibility/</link>
+        <link>https://codthing.github.io/react-patterns/performance-patterns/import-on-visibility/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/performance-patterns/import-on-visibility/</guid>
+        <guid>https://codthing.github.io/react-patterns/performance-patterns/import-on-visibility/</guid>
         <description>除了用户交互，经常有在初始页面上不可见的组件。 一个很好的例子是延迟加载在视口中不直接可见的图像，但只有在用户向下滚动时才会加载。 由于不会立即</description>
       </item>
       
       <item>
         <title>提供者模式</title>
-        <link>https://github.com/codthing/react-patterns/design-patterns/provider-pattern/</link>
+        <link>https://codthing.github.io/react-patterns/design-patterns/provider-pattern/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/design-patterns/provider-pattern/</guid>
+        <guid>https://codthing.github.io/react-patterns/design-patterns/provider-pattern/</guid>
         <description>在某些情况下，我们希望为应用程序中的许多（如果不是全部）组件提供可用数据。 单向数据流 props 存在的问题 虽然我们可以使用 props 将数据传递给组件，但如果应</description>
       </item>
       
       <item>
         <title>设置</title>
-        <link>https://github.com/codthing/react/storybook/sb-started/sb-setup/</link>
+        <link>https://codthing.github.io/react/storybook/sb-started/sb-setup/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/storybook/sb-started/sb-setup/</guid>
+        <guid>https://codthing.github.io/react/storybook/sb-started/sb-setup/</guid>
         <description>编写 Story 从项目中选择一个简单的组件，比如一个 Button，然后编写一个 .stories.ts 或一个 .stories.mdx 文件来配合它。 它可能看起来像这样： 1 2 3 4 5 6 7 8 9 10 11 12 13 14</description>
       </item>
       
       <item>
         <title>退出 Node.js 程序</title>
-        <link>https://github.com/codthing/nodejs/nodebase/node-exit/</link>
+        <link>https://codthing.github.io/nodejs/nodebase/node-exit/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/nodejs/nodebase/node-exit/</guid>
+        <guid>https://codthing.github.io/nodejs/nodebase/node-exit/</guid>
         <description>有多种方法可以终止 Node.js 应用程序。 1. ctrl + c 在控制台中运行程序时，可以使用 ctrl-C 关闭它，但在这里要讨论的是以编程方式退出。 2. process.exit() process 核心模块提供了一个方便</description>
       </item>
       
       <item>
         <title>Array.prototype.concat()</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/function-programming/concat-programming/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/function-programming/concat-programming/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/function-programming/concat-programming/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/function-programming/concat-programming/</guid>
         <description>concat() 方法用于合并两个或多个数组。 此方法不会更改现有数组，而是返回一个新数组。 使用 concat 方法组合两个数组 Concatenation 意思是将元素连接到尾部。 同理，JavaSc</description>
       </item>
       
       <item>
         <title>IIFE</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/object-programming/iife/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/object-programming/iife/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/object-programming/iife/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/object-programming/iife/</guid>
         <description>一、了解立即调用函数表达（IIFE） JavaScript 中的一个常见模式就是，函数在声明后立刻执行： 1 2 3 4 (function () { console.log(&amp;#34;Chirp, chirp!&amp;#34;); })(); 这是一个匿名函数表达式，立即执行并输出</description>
       </item>
       
       <item>
         <title>Remix 基础</title>
-        <link>https://github.com/codthing/react/remix/remix-base/</link>
+        <link>https://codthing.github.io/react/remix/remix-base/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/remix/remix-base/</guid>
+        <guid>https://codthing.github.io/react/remix/remix-base/</guid>
         <description>一、创建 Remix 应用 npx create-remix@latest yarn dev 二、创建文件路由 app/root.tsx Layout 组件中 &amp;lt;li&amp;gt; &amp;lt;Link to=&amp;#34;/posts&amp;#34;&amp;gt;Posts&amp;lt;/Link&amp;gt; &amp;lt;/li&amp;gt; 创建 app/routes/posts/index.tsx export default function Posts() { return ( &amp;lt;div&amp;gt; &amp;lt;h1&amp;gt;Posts&amp;lt;/h1&amp;gt; &amp;lt;/div&amp;gt; ) } 三、加载数据 Remix 的路由文件相当于后端的模板视图，也是控制</description>
       </item>
       
       <item>
         <title>Spritespin.js &amp; krpano </title>
-        <link>https://github.com/codthing/react-native/expo/spritespin-krpano/</link>
+        <link>https://codthing.github.io/react-native/expo/spritespin-krpano/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-native/expo/spritespin-krpano/</guid>
+        <guid>https://codthing.github.io/react-native/expo/spritespin-krpano/</guid>
         <description>Spritespin 图片排序 在用数字标志图片名称的时候，图片的旋转顺序应该为逆时针，这样在用鼠标拖拽的时候才能按照鼠标拖拽的方向旋转。 否则，图片旋转方向看起来</description>
       </item>
       
       <item>
         <title>Win &#43; Office</title>
-        <link>https://github.com/codthing/others/windows/win-office/</link>
+        <link>https://codthing.github.io/others/windows/win-office/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/others/windows/win-office/</guid>
+        <guid>https://codthing.github.io/others/windows/win-office/</guid>
         <description>操作系统 系统激活 Office激活 U盘系统安装：</description>
       </item>
       
       <item>
         <title>交互导入</title>
-        <link>https://github.com/codthing/react-patterns/performance-patterns/import-on-interaction/</link>
+        <link>https://codthing.github.io/react-patterns/performance-patterns/import-on-interaction/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/performance-patterns/import-on-interaction/</guid>
+        <guid>https://codthing.github.io/react-patterns/performance-patterns/import-on-interaction/</guid>
         <description>页面可能包含并非立即需要的组件或资源的代码或数据。 例如，用户不会看到部分用户界面，除非他们单击或滚动页面的某些部分。 这适用于编写的多种第一方</description>
       </item>
       
       <item>
         <title>原型模式</title>
-        <link>https://github.com/codthing/react-patterns/design-patterns/prototype-pattern/</link>
+        <link>https://codthing.github.io/react-patterns/design-patterns/prototype-pattern/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/design-patterns/prototype-pattern/</guid>
+        <guid>https://codthing.github.io/react-patterns/design-patterns/prototype-pattern/</guid>
         <description>原型模式是一种在许多相同类型的对象之间共享属性的有用方法。 原型prototype是 JavaScript 原生的对象，对象可以通过原型链__proto__访问。 在</description>
       </item>
       
       <item>
         <title>容器/展示模式（X）</title>
-        <link>https://github.com/codthing/react-patterns/design-patterns/presentational-container-pattern/</link>
+        <link>https://codthing.github.io/react-patterns/design-patterns/presentational-container-pattern/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/design-patterns/presentational-container-pattern/</guid>
+        <guid>https://codthing.github.io/react-patterns/design-patterns/presentational-container-pattern/</guid>
         <description>这是历史遗留问题，所以不建议使用（现在有了Hooks），在这里只是让我们了解这段历史 在 React 中，一种强制分离关注点的方法是通过使用容器/演示模式</description>
       </item>
       
       <item>
         <title>服务端渲染</title>
-        <link>https://github.com/codthing/react-patterns/render-patterns/server-side-rendering/</link>
+        <link>https://codthing.github.io/react-patterns/render-patterns/server-side-rendering/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/render-patterns/server-side-rendering/</guid>
+        <guid>https://codthing.github.io/react-patterns/render-patterns/server-side-rendering/</guid>
         <description>服务器端渲染 (SSR) 是最古老的 Web 内容渲染方法之一。 SSR 为要呈现的页面内容生成完整的 HTML，以响应用户请求。 内容可能包括来自数据存储或外部 API 的数据。</description>
       </item>
       
       <item>
         <title>读取环境变量</title>
-        <link>https://github.com/codthing/nodejs/nodebase/node-var/</link>
+        <link>https://codthing.github.io/nodejs/nodebase/node-var/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/nodejs/nodebase/node-var/</guid>
+        <guid>https://codthing.github.io/nodejs/nodebase/node-var/</guid>
         <description>Node.js 的流程核心模块提供 env 属性，该属性托管在流程启动时设置的所有环境变量。 一、设置变量（测试环境） 下面的代码运行 app.js 并设置 USER_ID 和 USER_KEY。 1</description>
       </item>
       
       <item>
         <title>Array.prototype.reduce()</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/function-programming/reduce-programming/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/function-programming/reduce-programming/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/function-programming/reduce-programming/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/function-programming/reduce-programming/</guid>
         <description>reduce() 方法按顺序在数组的每个元素上执行用户提供的“reducer”回调函数，并传入对前一个元素进行计算的返回值。 在数组的所有元素上运行 reducer 的最终结</description>
       </item>
       
       <item>
         <title>Remix 进阶</title>
-        <link>https://github.com/codthing/react/remix/remix-adv/</link>
+        <link>https://codthing.github.io/react/remix/remix-adv/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/remix/remix-adv/</guid>
+        <guid>https://codthing.github.io/react/remix/remix-adv/</guid>
         <description>一、创建 Remix 项目 npx create-remix@latest yarn yarn dev 二、目录结构 app/ - 所有Remix应用程序代码的位置 app/entry.client.tsx- JavaScript 的第一部分，它将在应用程序在浏览器中加载时运行。我们使用此文件来</description>
       </item>
       
       <item>
         <title>yarn 最佳实践</title>
-        <link>https://github.com/codthing/others/yarn/yarn-bp/</link>
+        <link>https://codthing.github.io/others/yarn/yarn-bp/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/others/yarn/yarn-bp/</guid>
+        <guid>https://codthing.github.io/others/yarn/yarn-bp/</guid>
         <description>一、全局配置yarn Step1. 获取yarn的安装位置 yarn global bin Step2. 配置yarn全局变量</description>
       </item>
       
       <item>
         <title>使用 REPL 测试代码</title>
-        <link>https://github.com/codthing/nodejs/nodebase/node-repl/</link>
+        <link>https://codthing.github.io/nodejs/nodebase/node-repl/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/nodejs/nodebase/node-repl/</guid>
+        <guid>https://codthing.github.io/nodejs/nodebase/node-repl/</guid>
         <description>REPL 表示 Read Evaluate Print Loop，它是一种编程语言环境（基本上是一个控制台窗口）， 它将单个表达式作为用户输入，并在执行后将结果返回到控制台。 REPL 会话提供了</description>
       </item>
       
       <item>
         <title>基于路由的拆分</title>
-        <link>https://github.com/codthing/react-patterns/performance-patterns/route-base/</link>
+        <link>https://codthing.github.io/react-patterns/performance-patterns/route-base/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/performance-patterns/route-base/</guid>
+        <guid>https://codthing.github.io/react-patterns/performance-patterns/route-base/</guid>
         <description>可以通过添加基于路由的拆分来请求仅特定路由需要的资源。 通过将 React Suspense 或 loadable-component 与 react-router 等库结合，可以根据当前路由动态加载组件。 1 2 3 4 5 6 7 8 9 10 11 12 13 14</description>
       </item>
       
       <item>
         <title>观察者模式</title>
-        <link>https://github.com/codthing/react-patterns/design-patterns/observer-pattern/</link>
+        <link>https://codthing.github.io/react-patterns/design-patterns/observer-pattern/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/design-patterns/observer-pattern/</guid>
+        <guid>https://codthing.github.io/react-patterns/design-patterns/observer-pattern/</guid>
         <description>使用观察者模式，我们可以将某些对象（观察者）订阅到另一个称为 observable（可观察） 的对象。 每当一个事件发生时，observable 就</description>
       </item>
       
       <item>
         <title>静态生成</title>
-        <link>https://github.com/codthing/react-patterns/render-patterns/static-rendering/</link>
+        <link>https://codthing.github.io/react-patterns/render-patterns/static-rendering/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/render-patterns/static-rendering/</guid>
+        <guid>https://codthing.github.io/react-patterns/render-patterns/static-rendering/</guid>
         <description>根据我们对 SSR 的讨论，知道服务器上较长的请求处理时间会对 TTFB 产生负面影响。 类似地，对于 CSR，由于下载和处理脚本所花费的时间，大型 JavaScript 包可能对应用</description>
       </item>
       
       <item>
         <title>Array.prototype.sort()</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/function-programming/sort-programming/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/function-programming/sort-programming/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/function-programming/sort-programming/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/function-programming/sort-programming/</guid>
         <description>sort() 方法就地对数组的元素进行排序并返回排序后的数组。 默认排序顺序是升序，建立在将元素转换为字符串，然后比较它们的 UTF-16 代码单元值序列的基础上。 排序</description>
       </item>
       
       <item>
         <title>Babel</title>
-        <link>https://github.com/codthing/others/babel/babel-base/</link>
+        <link>https://codthing.github.io/others/babel/babel-base/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/others/babel/babel-base/</guid>
+        <guid>https://codthing.github.io/others/babel/babel-base/</guid>
         <description>Babel是Web Developer工具集中的出色条目。 这是一个了不起的工具，已经存在了一段时间，但是如今几乎每个JavaScript开发人</description>
       </item>
       
       <item>
         <title>右键添加cmd和psl窗口命令</title>
-        <link>https://github.com/codthing/others/cmd/cmdpsl/</link>
+        <link>https://codthing.github.io/others/cmd/cmdpsl/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/others/cmd/cmdpsl/</guid>
+        <guid>https://codthing.github.io/others/cmd/cmdpsl/</guid>
         <description>直接新建txt，粘贴进去保存，然后选择另存为，保存类型选所有文件、编码选ANSI、文件名为CmdAndPowershellAll.reg(名</description>
       </item>
       
       <item>
         <title>命令行</title>
-        <link>https://github.com/codthing/nodejs/nodebase/node-cmd/</link>
+        <link>https://codthing.github.io/nodejs/nodebase/node-cmd/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/nodejs/nodebase/node-cmd/</guid>
+        <guid>https://codthing.github.io/nodejs/nodebase/node-cmd/</guid>
         <description>一、从命令行接受参数 在调用 Node.js 应用程序时，可以使用任意数量的参数 参数可以是独立的，也可以有一个键和一个值。 1 2 3 4 5 6 node app.js joe // or node app.js name=joe 这会改变</description>
       </item>
       
       <item>
         <title>增量静态生成 ✔</title>
-        <link>https://github.com/codthing/react-patterns/render-patterns/incremental-static-rendering/</link>
+        <link>https://codthing.github.io/react-patterns/render-patterns/incremental-static-rendering/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/render-patterns/incremental-static-rendering/</guid>
+        <guid>https://codthing.github.io/react-patterns/render-patterns/incremental-static-rendering/</guid>
         <description>静态生成 (SSG) 解决了 SSR 和 CSR 的大部分问题，但适用于渲染大部分静态内容。 当要呈现的内容是动态的或经常变化时，它会造成限制。 想想一个有多个帖子的不断增</description>
       </item>
       
       <item>
         <title>捆绑拆分</title>
-        <link>https://github.com/codthing/react-patterns/performance-patterns/bundle-splitting/</link>
+        <link>https://codthing.github.io/react-patterns/performance-patterns/bundle-splitting/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/performance-patterns/bundle-splitting/</guid>
+        <guid>https://codthing.github.io/react-patterns/performance-patterns/bundle-splitting/</guid>
         <description>在构建现代 Web 应用程序时， 诸如 Webpack 或 Rollup 之类的打包器会获取应用程序的源代码，并将其捆绑到一个或多个包中。 当用户访问网站时，会请求并加载包，以便将数</description>
       </item>
       
       <item>
         <title>模块模式</title>
-        <link>https://github.com/codthing/react-patterns/design-patterns/module-pattern/</link>
+        <link>https://codthing.github.io/react-patterns/design-patterns/module-pattern/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/design-patterns/module-pattern/</guid>
+        <guid>https://codthing.github.io/react-patterns/design-patterns/module-pattern/</guid>
         <description>随着应用程序和代码库的增长，保持代码的可维护性和分离性变得越来越重要。 模块模式将代码拆分为更小的、可重用的部分。 除了能够将代码拆分为更小的可</description>
       </item>
       
       <item>
         <title>PRPL模式</title>
-        <link>https://github.com/codthing/react-patterns/performance-patterns/prpl/</link>
+        <link>https://codthing.github.io/react-patterns/performance-patterns/prpl/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/performance-patterns/prpl/</guid>
+        <guid>https://codthing.github.io/react-patterns/performance-patterns/prpl/</guid>
         <description>使应用程序在全球范围内可访问可能是一个挑战！ 我们必须确保应用程序在低端设备和互联网连接较差的地区运行良好。 为了确保应用程序能够在困难的条件下</description>
       </item>
       
       <item>
         <title>String.prototype.split()</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/function-programming/split-programming/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/function-programming/split-programming/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/function-programming/split-programming/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/function-programming/split-programming/</guid>
         <description>split() 方法将一个字符串划分为一个有序的子字符串列表，将这些子字符串放入一个数组中，并返回该数组。 除法是通过搜索模式来完成的； 其中模式作为方法调用</description>
       </item>
       
       <item>
         <title>使用 exports</title>
-        <link>https://github.com/codthing/nodejs/nodebase/node-export/</link>
+        <link>https://codthing.github.io/nodejs/nodebase/node-export/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/nodejs/nodebase/node-export/</guid>
+        <guid>https://codthing.github.io/nodejs/nodebase/node-export/</guid>
         <description>Node.js 有一个内置的模块系统。 Node.js 文件可以导入其他 Node.js 文件公开的功能。 module.exports 1 2 3 4 5 6 7 8 9 10 // car.js const car = { brand: &amp;#39;Ford&amp;#39;, model: &amp;#39;Fiesta&amp;#39; } module.exports = car // index.js const car = require(&amp;#39;./car&amp;#39;) exports 1 2 3 4 5 6 7 8</description>
       </item>
       
       <item>
         <title>有趣的文章</title>
-        <link>https://github.com/codthing/others/blog/blog/</link>
+        <link>https://codthing.github.io/others/blog/blog/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/others/blog/blog/</guid>
+        <guid>https://codthing.github.io/others/blog/blog/</guid>
         <description>那些争议最大的编程观点</description>
       </item>
       
       <item>
         <title>混合模式（X）</title>
-        <link>https://github.com/codthing/react-patterns/design-patterns/mixin-pattern/</link>
+        <link>https://codthing.github.io/react-patterns/design-patterns/mixin-pattern/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/design-patterns/mixin-pattern/</guid>
+        <guid>https://codthing.github.io/react-patterns/design-patterns/mixin-pattern/</guid>
         <description>mixin 是一个对象，可以使用它来向另一个对象或类添加可重用的功能，而无需使用继承。 不能单独使用 mixin：它们的唯一目的是在没有继承的情况下向对象</description>
       </item>
       
       <item>
         <title>渐进补水 ✔</title>
-        <link>https://github.com/codthing/react-patterns/render-patterns/progressive-hydration/</link>
+        <link>https://codthing.github.io/react-patterns/render-patterns/progressive-hydration/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/render-patterns/progressive-hydration/</guid>
+        <guid>https://codthing.github.io/react-patterns/render-patterns/progressive-hydration/</guid>
         <description>简介 服务器呈现的应用程序使用服务器为当前导航生成 HTML。 一旦服务器完成生成 HTML 内容（其中还包含正确显示静态 UI 所需的 CSS 和 JSON 数据），它就会将数据</description>
       </item>
       
       <item>
         <title>Array.prototype.join()</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/function-programming/join-programming/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/function-programming/join-programming/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/function-programming/join-programming/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/function-programming/join-programming/</guid>
         <description>join() 方法通过连接数组（或类似数组的对象）中的所有元素来创建并返回一个新字符串，用逗号或指定的分隔符字符串分隔。 如果数组只有一项，则该项将在不使</description>
       </item>
       
       <item>
         <title>中介者/中间件模式</title>
-        <link>https://github.com/codthing/react-patterns/design-patterns/mediator-pattern/</link>
+        <link>https://codthing.github.io/react-patterns/design-patterns/mediator-pattern/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/design-patterns/mediator-pattern/</guid>
+        <guid>https://codthing.github.io/react-patterns/design-patterns/mediator-pattern/</guid>
         <description>中介者模式使组件可以通过一个中心点相互交互：中介者（也称中介器或中间件）。 中介器不是直接相互交谈，而是接收请求，并将它们转发！ 在 JavaScript 中，中介者</description>
       </item>
       
       <item>
         <title>摇树 tree-shaking</title>
-        <link>https://github.com/codthing/react-patterns/performance-patterns/tree-shaking/</link>
+        <link>https://codthing.github.io/react-patterns/performance-patterns/tree-shaking/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/performance-patterns/tree-shaking/</guid>
+        <guid>https://codthing.github.io/react-patterns/performance-patterns/tree-shaking/</guid>
         <description>我们可能会向 bundle 添加代码，而这些代码在应用程序中的任何地方都没有使用。 可以消除这一段死代码，以减少包的大小，并防止不必要地加载更多数据！ 在将死</description>
       </item>
       
       <item>
         <title>流(媒体)式服务器端渲染 ✔</title>
-        <link>https://github.com/codthing/react-patterns/render-patterns/streaming-ssr/</link>
+        <link>https://codthing.github.io/react-patterns/render-patterns/streaming-ssr/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/render-patterns/streaming-ssr/</guid>
+        <guid>https://codthing.github.io/react-patterns/render-patterns/streaming-ssr/</guid>
         <description>我们可以通过流式服务器渲染我们的应用程序的内容来减少服务器渲染我们的应用程序的时间。 我们可以将其拆分为更小的块，而不是生成包含当前导航所需标</description>
       </item>
       
       <item>
         <title>Array.prototype.every()</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/function-programming/every-programming/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/function-programming/every-programming/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/function-programming/every-programming/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/function-programming/every-programming/</guid>
         <description>every() 方法测试数组中的所有元素是否通过提供的函数实现的测试。 它返回一个布尔值。 使用 every 方法检查数组中的每个元素是否符合条件 every 方法用于检测数组中所有</description>
       </item>
       
       <item>
         <title>React 服务器组件 ✔</title>
-        <link>https://github.com/codthing/react-patterns/render-patterns/react-server-components/</link>
+        <link>https://codthing.github.io/react-patterns/render-patterns/react-server-components/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/render-patterns/react-server-components/</guid>
+        <guid>https://codthing.github.io/react-patterns/render-patterns/react-server-components/</guid>
         <description>React 团队正在研究零包大小的 React 服务器组件，旨在通过服务器驱动的思维模型实现现代 UX。 这与组件的服务器端渲染 (SSR) 完全不同，并且可能导致客户端 JavaScript 包显着</description>
       </item>
       
       <item>
         <title>render 道具模式（X）</title>
-        <link>https://github.com/codthing/react-patterns/design-patterns/render-props-pattern/</link>
+        <link>https://codthing.github.io/react-patterns/design-patterns/render-props-pattern/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/design-patterns/render-props-pattern/</guid>
+        <guid>https://codthing.github.io/react-patterns/design-patterns/render-props-pattern/</guid>
         <description>这是历史遗留问题，所以不建议使用（现在有了Hooks），在这里只是让我们了解这段历史 通过 props 道具将 JSX 元素传递给组件 在高阶组件部分，我们看到如果</description>
       </item>
       
       <item>
         <title>预加载</title>
-        <link>https://github.com/codthing/react-patterns/performance-patterns/preload/</link>
+        <link>https://codthing.github.io/react-patterns/performance-patterns/preload/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/performance-patterns/preload/</guid>
+        <guid>https://codthing.github.io/react-patterns/performance-patterns/preload/</guid>
         <description>预加载 (&amp;lt;link rel=&amp;quot;preload&amp;quot;&amp;gt;) 是一种浏览器优化，允许更早地请求关键资源（可能发现较晚）。 如果您对如何手动排序关键资源的加载感到满意，它会对 Core Web Vitals 中的加载性能和指</description>
       </item>
       
       <item>
         <title>Array.prototype.some()</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/function-programming/some-programming/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/function-programming/some-programming/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/function-programming/some-programming/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/function-programming/some-programming/</guid>
         <description>some() 方法测试数组中是否至少有一个元素通过了提供的函数实现的测试。 如果在数组中找到一个元素，提供的函数为其返回真值，则返回真值； 否则返回fals</description>
       </item>
       
       <item>
         <title>Hooks 模式</title>
-        <link>https://github.com/codthing/react-patterns/design-patterns/hooks-pattern/</link>
+        <link>https://codthing.github.io/react-patterns/design-patterns/hooks-pattern/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/design-patterns/hooks-pattern/</guid>
+        <guid>https://codthing.github.io/react-patterns/design-patterns/hooks-pattern/</guid>
         <description>React 16.8 引入了一个名为 Hooks 的新功能。 Hooks 使得使用 React 状态和生命周期方法成为可能，而无需使用 ES2015 类组件。 尽管 Hooks 不一定是一种设计模式，但 Hooks 在您的应用程序设计</description>
       </item>
       
       <item>
         <title>选择性水合作用 ✔</title>
-        <link>https://github.com/codthing/react-patterns/render-patterns/react-selective-hydration/</link>
+        <link>https://codthing.github.io/react-patterns/render-patterns/react-selective-hydration/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/render-patterns/react-selective-hydration/</guid>
+        <guid>https://codthing.github.io/react-patterns/render-patterns/react-selective-hydration/</guid>
         <description>在之前的文章中，我们介绍了 SSR 和 Hydration 如何改善用户体验。 React 能够（快速）使用 react-dom/server 库提供的 renderToString 方法在服务器上生成一棵树，该方法在整个树生成后发送到客户端。</description>
       </item>
       
       <item>
         <title>预取</title>
-        <link>https://github.com/codthing/react-patterns/performance-patterns/prefetch/</link>
+        <link>https://codthing.github.io/react-patterns/performance-patterns/prefetch/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/performance-patterns/prefetch/</guid>
+        <guid>https://codthing.github.io/react-patterns/performance-patterns/prefetch/</guid>
         <description>Prefetch (&amp;lt;link rel=&amp;quot;prefetch&amp;quot;&amp;gt;) 是一种浏览器优化，它允许我们在需要之前获取后续路由或页面可能需要的资源。 预取可以通过几种方式实现。 它可以在 HTML 中声明性地完成（例如在下面</description>
       </item>
       
       <item>
         <title>HOC 模式（X）</title>
-        <link>https://github.com/codthing/react-patterns/design-patterns/hoc-pattern/</link>
+        <link>https://codthing.github.io/react-patterns/design-patterns/hoc-pattern/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/design-patterns/hoc-pattern/</guid>
+        <guid>https://codthing.github.io/react-patterns/design-patterns/hoc-pattern/</guid>
         <description>这是历史遗留问题，所以不建议使用（现在有了Hooks），在这里只是让我们了解这段历史 在我们的应用程序中，我们经常希望在多个组件中使用相同的逻</description>
       </item>
       
       <item>
         <title>优化加载第三方</title>
-        <link>https://github.com/codthing/react-patterns/performance-patterns/third-party/</link>
+        <link>https://codthing.github.io/react-patterns/performance-patterns/third-party/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/performance-patterns/third-party/</guid>
+        <guid>https://codthing.github.io/react-patterns/performance-patterns/third-party/</guid>
         <description>第三方资源可能会降低网站速度，并且可能是优化的挑战。 可以遵循某些最佳实践来有效地加载或延迟不同类型的第三方。 还可以使用框架级组件，例如 Next.js 脚本</description>
       </item>
       
       <item>
         <title>函数柯里化和局部调用</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/function-programming/currying-programming/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/function-programming/currying-programming/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/function-programming/currying-programming/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/function-programming/currying-programming/</guid>
         <description>arity（参数个数）是函数所需的形参的数量。 函数柯里化（Currying）意思是把接受多个 arity 的函数变换成接受单一 arity 的函数。 函数柯里化 ari</description>
       </item>
       
       <item>
         <title>岛屿架构 ✔</title>
-        <link>https://github.com/codthing/react-patterns/render-patterns/islands-architecture/</link>
+        <link>https://codthing.github.io/react-patterns/render-patterns/islands-architecture/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/render-patterns/islands-architecture/</guid>
+        <guid>https://codthing.github.io/react-patterns/render-patterns/islands-architecture/</guid>
         <description>岛屿架构鼓励在服务器渲染的网页中进行小的、集中的交互块。 岛屿的输出是逐步增强的 HTML，在增强发生的方式上具有更多的特异性。 不是单个应用程序</description>
       </item>
       
       <item>
         <title>亨元模式</title>
-        <link>https://github.com/codthing/react-patterns/design-patterns/flyweight-pattern/</link>
+        <link>https://codthing.github.io/react-patterns/design-patterns/flyweight-pattern/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/design-patterns/flyweight-pattern/</guid>
+        <guid>https://codthing.github.io/react-patterns/design-patterns/flyweight-pattern/</guid>
         <description>当创建大量相似的对象时，享元模式是一种节省内存的有用方法。 图书馆案例 在应用程序中，我们希望用户能够添加书籍。 所有的书都有书名、作者和书号！ 但</description>
       </item>
       
       <item>
         <title>列表虚拟化</title>
-        <link>https://github.com/codthing/react-patterns/performance-patterns/virtual-lists/</link>
+        <link>https://codthing.github.io/react-patterns/performance-patterns/virtual-lists/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/performance-patterns/virtual-lists/</guid>
+        <guid>https://codthing.github.io/react-patterns/performance-patterns/virtual-lists/</guid>
         <description>在本指南中，讨论列表虚拟化（也称为窗口化）。 这是在动态列表中仅呈现可见内容行而不是整个列表的想法。 呈现的行只是完整列表的一小部分，随着用户滚</description>
       </item>
       
       <item>
         <title>工厂模式</title>
-        <link>https://github.com/codthing/react-patterns/design-patterns/factory-pattern/</link>
+        <link>https://codthing.github.io/react-patterns/design-patterns/factory-pattern/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/design-patterns/factory-pattern/</guid>
+        <guid>https://codthing.github.io/react-patterns/design-patterns/factory-pattern/</guid>
         <description>使用工厂模式，我们可以使用工厂函数来创建新对象。 当一个函数在不使用 new 关键字的情况下返回一个新对象时，它就是一个工厂函数！ 用户案例 假设我们的应</description>
       </item>
       
       <item>
         <title>压缩 JavaScript</title>
-        <link>https://github.com/codthing/react-patterns/performance-patterns/%E5%8E%8B%E7%BC%A9-javascript/</link>
+        <link>https://codthing.github.io/react-patterns/performance-patterns/%E5%8E%8B%E7%BC%A9-javascript/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/performance-patterns/%E5%8E%8B%E7%BC%A9-javascript/</guid>
+        <guid>https://codthing.github.io/react-patterns/performance-patterns/%E5%8E%8B%E7%BC%A9-javascript/</guid>
         <description>压缩 JavaScript 并密切关注块大小以获得最佳性能。 过高的 JavaScript 包粒度有助于重复数据删除和缓存，但可能会在 50-100 个块范围内受到较差的压缩和影响加载（由于浏览器进程</description>
       </item>
       
       <item>
         <title>复合模式</title>
-        <link>https://github.com/codthing/react-patterns/design-patterns/compound-pattern/</link>
+        <link>https://codthing.github.io/react-patterns/design-patterns/compound-pattern/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/design-patterns/compound-pattern/</guid>
+        <guid>https://codthing.github.io/react-patterns/design-patterns/compound-pattern/</guid>
         <description>在应用程序中，经常有属于彼此的组件。 它们通过共享状态相互依赖，并共享逻辑。 经常会在选择、下拉组件或菜单项等组件中看到这一点。 复合组件模式允许</description>
       </item>
       
       <item>
         <title>命令模式</title>
-        <link>https://github.com/codthing/react-patterns/design-patterns/command-pattern/</link>
+        <link>https://codthing.github.io/react-patterns/design-patterns/command-pattern/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-patterns/design-patterns/command-pattern/</guid>
+        <guid>https://codthing.github.io/react-patterns/design-patterns/command-pattern/</guid>
         <description>使用命令模式，我们可以将执行特定任务的对象与调用该方法的对象解耦。 订单管理案例 假设我们有一个在线食品配送平台。 用户可以下订单、跟踪订单和取消</description>
       </item>
       
       <item>
         <title>Related content</title>
-        <link>https://github.com/codthing/docs/relatedcontent/</link>
+        <link>https://codthing.github.io/docs/relatedcontent/</link>
         <pubDate>Tue, 28 Jan 2020 00:39:09 +0900</pubDate>
         
-        <guid>https://github.com/codthing/docs/relatedcontent/</guid>
+        <guid>https://codthing.github.io/docs/relatedcontent/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Page Resources</title>
-        <link>https://github.com/codthing/docs/pageresources/</link>
+        <link>https://codthing.github.io/docs/pageresources/</link>
         <pubDate>Tue, 28 Jan 2020 00:39:06 +0900</pubDate>
         
-        <guid>https://github.com/codthing/docs/pageresources/</guid>
+        <guid>https://codthing.github.io/docs/pageresources/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Page Bundles</title>
-        <link>https://github.com/codthing/docs/pagebundles/</link>
+        <link>https://codthing.github.io/docs/pagebundles/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:59 +0900</pubDate>
         
-        <guid>https://github.com/codthing/docs/pagebundles/</guid>
+        <guid>https://codthing.github.io/docs/pagebundles/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Content Formats</title>
-        <link>https://github.com/codthing/docs/contentfortmats/</link>
+        <link>https://codthing.github.io/docs/contentfortmats/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:51 +0900</pubDate>
         
-        <guid>https://github.com/codthing/docs/contentfortmats/</guid>
+        <guid>https://codthing.github.io/docs/contentfortmats/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Image Processing</title>
-        <link>https://github.com/codthing/docs/imageprocessing/</link>
+        <link>https://codthing.github.io/docs/imageprocessing/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:48 +0900</pubDate>
         
-        <guid>https://github.com/codthing/docs/imageprocessing/</guid>
+        <guid>https://codthing.github.io/docs/imageprocessing/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Shortcodes</title>
-        <link>https://github.com/codthing/docs/contentmanagement/shortcodes/</link>
+        <link>https://codthing.github.io/docs/contentmanagement/shortcodes/</link>
         <pubDate>Tue, 28 Jan 2020 00:36:19 +0900</pubDate>
         
-        <guid>https://github.com/codthing/docs/contentmanagement/shortcodes/</guid>
+        <guid>https://codthing.github.io/docs/contentmanagement/shortcodes/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Frontmatter</title>
-        <link>https://github.com/codthing/docs/contentmanagement/frontmatter/</link>
+        <link>https://codthing.github.io/docs/contentmanagement/frontmatter/</link>
         <pubDate>Tue, 28 Jan 2020 00:36:14 +0900</pubDate>
         
-        <guid>https://github.com/codthing/docs/contentmanagement/frontmatter/</guid>
+        <guid>https://codthing.github.io/docs/contentmanagement/frontmatter/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Markdown Syntax Guide</title>
-        <link>https://github.com/codthing/blog/markdown-syntax/</link>
+        <link>https://codthing.github.io/blog/markdown-syntax/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://github.com/codthing/blog/markdown-syntax/</guid>
+        <guid>https://codthing.github.io/blog/markdown-syntax/</guid>
         <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
 pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
@@ -1306,19 +1306,19 @@ caluere tempus&lt;/p&gt;</description>
       
       <item>
         <title>Section</title>
-        <link>https://github.com/codthing/docs/contentmanagement/sections/</link>
+        <link>https://codthing.github.io/docs/contentmanagement/sections/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://github.com/codthing/docs/contentmanagement/sections/</guid>
+        <guid>https://codthing.github.io/docs/contentmanagement/sections/</guid>
         <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
       </item>
       
       <item>
         <title>Placeholder Text</title>
-        <link>https://github.com/codthing/blog/placeholder-text/</link>
+        <link>https://codthing.github.io/blog/placeholder-text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://github.com/codthing/blog/placeholder-text/</guid>
+        <guid>https://codthing.github.io/blog/placeholder-text/</guid>
         <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
 pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;
@@ -1327,10 +1327,10 @@ caluere tempus&lt;/p&gt;</description>
       
       <item>
         <title>Emoji Support</title>
-        <link>https://github.com/codthing/blog/emoji-support/</link>
+        <link>https://codthing.github.io/blog/emoji-support/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://github.com/codthing/blog/emoji-support/</guid>
+        <guid>https://codthing.github.io/blog/emoji-support/</guid>
         <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de&lt;br /&gt;
 pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice&lt;br /&gt;
 subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc&lt;br /&gt;

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ORM on codthing</title>
-    <link>https://github.com/codthing/nodejs/orm/</link>
+    <link>https://codthing.github.io/nodejs/orm/</link>
     <description>Recent content in ORM on codthing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <copyright>&amp;copy;{year}, codthing</copyright>
     <lastBuildDate>Tue, 28 Jan 2020 00:34:39 +0900</lastBuildDate>
     
-        <atom:link href="https://github.com/codthing/nodejs/orm/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://codthing.github.io/nodejs/orm/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Prisma ORM</title>
-        <link>https://github.com/codthing/nodejs/orm/prisma/</link>
+        <link>https://codthing.github.io/nodejs/orm/prisma/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/nodejs/orm/prisma/</guid>
+        <guid>https://codthing.github.io/nodejs/orm/prisma/</guid>
         <description>Prisma Prisma 是一个开源的下一代 ORM。它由以下部分组成： Prisma 客户端：用于 Node.js 和 TypeScript 的自动生成和类型安全的查询构建器 Prisma Migrate : 迁移系统 Prisma Studio：用于查看和</description>
       </item>
       

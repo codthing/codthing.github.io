@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>开始 on codthing</title>
-    <link>https://github.com/codthing/react/storybook/sb-started/</link>
+    <link>https://codthing.github.io/react/storybook/sb-started/</link>
     <description>Recent content in 开始 on codthing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <copyright>&amp;copy;{year}, codthing</copyright>
     <lastBuildDate>Tue, 28 Jan 2020 00:34:39 +0900</lastBuildDate>
     
-        <atom:link href="https://github.com/codthing/react/storybook/sb-started/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://codthing.github.io/react/storybook/sb-started/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>介绍</title>
-        <link>https://github.com/codthing/react/storybook/sb-started/sb-introduction/</link>
+        <link>https://codthing.github.io/react/storybook/sb-started/sb-introduction/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/storybook/sb-started/sb-introduction/</guid>
+        <guid>https://codthing.github.io/react/storybook/sb-started/sb-introduction/</guid>
         <description>Storybook 是一个用于 UI 开发的工具。 它通过隔离组件使开发更快更容易。 一次处理一个组件。 可以开发整个 UI，而无需启动复杂的开发堆栈、将某些数据强制输入数</description>
       </item>
       
       <item>
         <title>安装</title>
-        <link>https://github.com/codthing/react/storybook/sb-started/sb-install/</link>
+        <link>https://codthing.github.io/react/storybook/sb-started/sb-install/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/storybook/sb-started/sb-install/</guid>
+        <guid>https://codthing.github.io/react/storybook/sb-started/sb-install/</guid>
         <description>在现有项目的根目录中运行： npx sb init 运行： yarn storybook</description>
       </item>
       
       <item>
         <title>Story 是什么？</title>
-        <link>https://github.com/codthing/react/storybook/sb-started/sb-what/</link>
+        <link>https://codthing.github.io/react/storybook/sb-started/sb-what/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/storybook/sb-started/sb-what/</guid>
+        <guid>https://codthing.github.io/react/storybook/sb-started/sb-what/</guid>
         <description>Story 介绍 Story（故事）捕获 UI 组件的呈现状态。 开发人员为每个组件编写多个故事，描述组件可以支持的所有“有趣”状态。 每个组件都有一组故事，显示</description>
       </item>
       
       <item>
         <title>浏览故事</title>
-        <link>https://github.com/codthing/react/storybook/sb-started/sb-browse/</link>
+        <link>https://codthing.github.io/react/storybook/sb-started/sb-browse/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/storybook/sb-started/sb-browse/</guid>
+        <guid>https://codthing.github.io/react/storybook/sb-started/sb-browse/</guid>
         <description>如何使用 Storybook 作为构建组件的工作区。 侧边栏和 Canvas（画布） *.stories.ts 文件定义了一个组件的所有故事。 每个故事都有一个相应的侧边栏项目。 当单击一个故事</description>
       </item>
       
       <item>
         <title>设置</title>
-        <link>https://github.com/codthing/react/storybook/sb-started/sb-setup/</link>
+        <link>https://codthing.github.io/react/storybook/sb-started/sb-setup/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/storybook/sb-started/sb-setup/</guid>
+        <guid>https://codthing.github.io/react/storybook/sb-started/sb-setup/</guid>
         <description>编写 Story 从项目中选择一个简单的组件，比如一个 Button，然后编写一个 .stories.ts 或一个 .stories.mdx 文件来配合它。 它可能看起来像这样： 1 2 3 4 5 6 7 8 9 10 11 12 13 14</description>
       </item>
       

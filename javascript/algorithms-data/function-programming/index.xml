@@ -2,123 +2,123 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>函数式编程 on codthing</title>
-    <link>https://github.com/codthing/javascript/algorithms-data/function-programming/</link>
+    <link>https://codthing.github.io/javascript/algorithms-data/function-programming/</link>
     <description>Recent content in 函数式编程 on codthing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <copyright>&amp;copy;{year}, codthing</copyright>
     <lastBuildDate>Tue, 28 Jan 2020 00:34:39 +0900</lastBuildDate>
     
-        <atom:link href="https://github.com/codthing/javascript/algorithms-data/function-programming/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://codthing.github.io/javascript/algorithms-data/function-programming/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>函数式编程理念</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/function-programming/fn-programming/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/function-programming/fn-programming/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/function-programming/fn-programming/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/function-programming/fn-programming/</guid>
         <description>一、概述 函数式编程是一种方案简单、功能独立、对作用域外没有任何副作用的编程范式：INPUT -&amp;gt; PROCESS -&amp;gt; OUTPUT 函数式编程： 1）功能独立 —— 不依赖于程序的</description>
       </item>
       
       <item>
         <title>Array.prototype.map()</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/function-programming/map-programming/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/function-programming/map-programming/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/function-programming/map-programming/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/function-programming/map-programming/</guid>
         <description>map() 方法创建一个新数组，其中填充了对调用数组中的每个元素调用提供的函数的结果。 使用 map 方法从数组中提取数据 目前为止，已经使用纯函数来避免程序中的</description>
       </item>
       
       <item>
         <title>Array.prototype.filter()</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/function-programming/filter-programming/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/function-programming/filter-programming/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/function-programming/filter-programming/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/function-programming/filter-programming/</guid>
         <description>filter() 方法创建一个新数组，其中包含通过提供的函数实现的测试的所有元素。 使用 filter 方法从数组中提取数据 另一个有用的数组方法是 filter()（即 Arr</description>
       </item>
       
       <item>
         <title>Array.prototype.slice()</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/function-programming/slice-programming/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/function-programming/slice-programming/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/function-programming/slice-programming/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/function-programming/slice-programming/</guid>
         <description>slice() 方法将数组的一部分的浅拷贝返回到从开始到结束（不包括结束）选择的新数组对象中，其中开始和结束表示该数组中项目的索引。 不会修改原始数组。 使用</description>
       </item>
       
       <item>
         <title>Array.prototype.concat()</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/function-programming/concat-programming/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/function-programming/concat-programming/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/function-programming/concat-programming/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/function-programming/concat-programming/</guid>
         <description>concat() 方法用于合并两个或多个数组。 此方法不会更改现有数组，而是返回一个新数组。 使用 concat 方法组合两个数组 Concatenation 意思是将元素连接到尾部。 同理，JavaSc</description>
       </item>
       
       <item>
         <title>Array.prototype.reduce()</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/function-programming/reduce-programming/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/function-programming/reduce-programming/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/function-programming/reduce-programming/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/function-programming/reduce-programming/</guid>
         <description>reduce() 方法按顺序在数组的每个元素上执行用户提供的“reducer”回调函数，并传入对前一个元素进行计算的返回值。 在数组的所有元素上运行 reducer 的最终结</description>
       </item>
       
       <item>
         <title>Array.prototype.sort()</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/function-programming/sort-programming/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/function-programming/sort-programming/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/function-programming/sort-programming/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/function-programming/sort-programming/</guid>
         <description>sort() 方法就地对数组的元素进行排序并返回排序后的数组。 默认排序顺序是升序，建立在将元素转换为字符串，然后比较它们的 UTF-16 代码单元值序列的基础上。 排序</description>
       </item>
       
       <item>
         <title>String.prototype.split()</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/function-programming/split-programming/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/function-programming/split-programming/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/function-programming/split-programming/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/function-programming/split-programming/</guid>
         <description>split() 方法将一个字符串划分为一个有序的子字符串列表，将这些子字符串放入一个数组中，并返回该数组。 除法是通过搜索模式来完成的； 其中模式作为方法调用</description>
       </item>
       
       <item>
         <title>Array.prototype.join()</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/function-programming/join-programming/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/function-programming/join-programming/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/function-programming/join-programming/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/function-programming/join-programming/</guid>
         <description>join() 方法通过连接数组（或类似数组的对象）中的所有元素来创建并返回一个新字符串，用逗号或指定的分隔符字符串分隔。 如果数组只有一项，则该项将在不使</description>
       </item>
       
       <item>
         <title>Array.prototype.every()</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/function-programming/every-programming/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/function-programming/every-programming/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/function-programming/every-programming/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/function-programming/every-programming/</guid>
         <description>every() 方法测试数组中的所有元素是否通过提供的函数实现的测试。 它返回一个布尔值。 使用 every 方法检查数组中的每个元素是否符合条件 every 方法用于检测数组中所有</description>
       </item>
       
       <item>
         <title>Array.prototype.some()</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/function-programming/some-programming/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/function-programming/some-programming/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/function-programming/some-programming/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/function-programming/some-programming/</guid>
         <description>some() 方法测试数组中是否至少有一个元素通过了提供的函数实现的测试。 如果在数组中找到一个元素，提供的函数为其返回真值，则返回真值； 否则返回fals</description>
       </item>
       
       <item>
         <title>函数柯里化和局部调用</title>
-        <link>https://github.com/codthing/javascript/algorithms-data/function-programming/currying-programming/</link>
+        <link>https://codthing.github.io/javascript/algorithms-data/function-programming/currying-programming/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/javascript/algorithms-data/function-programming/currying-programming/</guid>
+        <guid>https://codthing.github.io/javascript/algorithms-data/function-programming/currying-programming/</guid>
         <description>arity（参数个数）是函数所需的形参的数量。 函数柯里化（Currying）意思是把接受多个 arity 的函数变换成接受单一 arity 的函数。 函数柯里化 ari</description>
       </item>
       

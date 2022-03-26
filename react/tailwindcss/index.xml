@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tailwindcss on codthing</title>
-    <link>https://github.com/codthing/react/tailwindcss/</link>
+    <link>https://codthing.github.io/react/tailwindcss/</link>
     <description>Recent content in tailwindcss on codthing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <copyright>&amp;copy;{year}, codthing</copyright>
     <lastBuildDate>Tue, 28 Jan 2020 00:34:39 +0900</lastBuildDate>
     
-        <atom:link href="https://github.com/codthing/react/tailwindcss/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://codthing.github.io/react/tailwindcss/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>开始</title>
-        <link>https://github.com/codthing/react/tailwindcss/tailwindcss-start.md/</link>
+        <link>https://codthing.github.io/react/tailwindcss/tailwindcss-start.md/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react/tailwindcss/tailwindcss-start.md/</guid>
+        <guid>https://codthing.github.io/react/tailwindcss/tailwindcss-start.md/</guid>
         <description></description>
       </item>
       

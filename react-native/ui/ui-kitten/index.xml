@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UI-Kitten on codthing</title>
-    <link>https://github.com/codthing/react-native/ui/ui-kitten/</link>
+    <link>https://codthing.github.io/react-native/ui/ui-kitten/</link>
     <description>Recent content in UI-Kitten on codthing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <copyright>&amp;copy;{year}, codthing</copyright>
     <lastBuildDate>Tue, 28 Jan 2020 00:34:39 +0900</lastBuildDate>
     
-        <atom:link href="https://github.com/codthing/react-native/ui/ui-kitten/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://codthing.github.io/react-native/ui/ui-kitten/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>UI-Kitten 基础</title>
-        <link>https://github.com/codthing/react-native/ui/ui-kitten/kitten-base/</link>
+        <link>https://codthing.github.io/react-native/ui/ui-kitten/kitten-base/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-native/ui/ui-kitten/kitten-base/</guid>
+        <guid>https://codthing.github.io/react-native/ui/ui-kitten/kitten-base/</guid>
         <description>一、安装 //确保已安装 React Native CLI npm un -g react-native-cli &amp;amp;&amp;amp; npm i -g @react-native-community/cli //用 Kitten 模板创建新项目 npx react-native init MyApp --template @ui-kitten/template-js //启动应用 yarn android 二、配置路由（配置应用程序在屏幕之间导航，基</description>
       </item>
       
       <item>
         <title>UI-Kitten 最佳实践</title>
-        <link>https://github.com/codthing/react-native/ui/ui-kitten/kitten-bp/</link>
+        <link>https://codthing.github.io/react-native/ui/ui-kitten/kitten-bp/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://github.com/codthing/react-native/ui/ui-kitten/kitten-bp/</guid>
+        <guid>https://codthing.github.io/react-native/ui/ui-kitten/kitten-bp/</guid>
         <description>一、DrawerGroup （UI-Kitten ） DrawerGroup 导航问题 xxx 这个问题没有解决 UI-Kitten Version@5.0.0 @ui-kitten/components DrawerGroup const DrawerContent = ({ navigation, state }) =&amp;gt; { const routes = [//1.定义对应的组件（组件名</description>
       </item>
       
