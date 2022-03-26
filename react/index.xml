@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>React on codthing</title>
+    <link>https://github.com/codthing/react/</link>
+    <description>Recent content in React on codthing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <copyright>&amp;copy;{year}, codthing</copyright>
+    <lastBuildDate>Tue, 28 Jan 2020 00:34:39 +0900</lastBuildDate>
+    
+        <atom:link href="https://github.com/codthing/react/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>React &amp; Redux</title>
+        <link>https://github.com/codthing/react/redux/react-redux/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://github.com/codthing/react/redux/react-redux/</guid>
+        <description>这两种技术的关键原则是什么? React 是提供数据的视图库，能以高效、可预测的方式渲染视图。 Redux 是状态管理框架，可用于简化 APP 应用状态的管理。 在 React Redux app 应用</description>
+      </item>
+      
+      <item>
+        <title>React 基础</title>
+        <link>https://github.com/codthing/react/react/react-base/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://github.com/codthing/react/react/react-base/</guid>
+        <description>简介：React 是由 Facebook 创建和维护的开源视图库。 它是渲染现代 Web 应用程序用户界面（UI）的好工具。 一、JSX（JS 语法扩展） React 使用名为 JSX 的 JavaScript 语法</description>
+      </item>
+      
+      <item>
+        <title>React 最佳实践</title>
+        <link>https://github.com/codthing/react/react/react-bp/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://github.com/codthing/react/react/react-bp/</guid>
+        <description>React 是一个声明式、高效且灵活的 JavaScript 库 一、特性 虚拟 DOM：保存在内存中并通过 ReactDOM 等库与“真实”DOM 同步的 UI 表示。使用这种方法，只有实际更改的组件才</description>
+      </item>
+      
+      <item>
+        <title>Redux</title>
+        <link>https://github.com/codthing/react/redux/redux-base/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://github.com/codthing/react/redux/redux-base/</guid>
+        <description>Redux 是一个状态管理框架， 但我觉得它同时也是一门语言，因为它有自己的一套行事规则。 Redux 代码库本身很小，核心概念也很简洁明了，但是它的 “语言” 却不寻</description>
+      </item>
+      
+      <item>
+        <title>Hooks 最佳实践</title>
+        <link>https://github.com/codthing/react/hooks/hooks-bp/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://github.com/codthing/react/hooks/hooks-bp/</guid>
+        <description>Hook 是 React 16.8 的新增特性。它可以让你在不编写 class 的情况下使用 state 以及其他的 React 特性。 Hook 是一些可以让你在函数组件里“钩入” React state 及生命周期等特性的函数。 Hook 使</description>
+      </item>
+      
+      <item>
+        <title>Hooks &amp; Redux</title>
+        <link>https://github.com/codthing/react/redux/hooks-redux/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://github.com/codthing/react/redux/hooks-redux/</guid>
+        <description>现在，有了 Hooks, 甚至可以自己编写 Reducer，通过 Proxy 对状态进行操作。 但是，为了更融入市场而且现在有了 Redux Tookit（可以减少很多代码量），所以</description>
+      </item>
+      
+      <item>
+        <title>zustand</title>
+        <link>https://github.com/codthing/react/zustand/zustand-base/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://github.com/codthing/react/zustand/zustand-base/</guid>
+        <description>zustand 基于 hooks 的 api，小型、快速且可扩展的状态管理解决方案。 一、安装 yarn add zustand 二、最简使用方法 Step1. 创建一个 Store store 是一个钩子！ 可以在里面放任何东西：原始数</description>
+      </item>
+      
+      <item>
+        <title>Recoil 最佳实践</title>
+        <link>https://github.com/codthing/react/recoil/recoil-bp/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://github.com/codthing/react/recoil/recoil-bp/</guid>
+        <description>Recoil 是 React 官方 meta (facebook) 官方实验室的状态管理库，贴合 React hooks，自由度很高，所以要在项目中做一些规范，以便提供最佳的实践。 官方文档有对核心概念的解释</description>
+      </item>
+      
+      <item>
+        <title>Next.js</title>
+        <link>https://github.com/codthing/react/next/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://github.com/codthing/react/next/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Remix 基础</title>
+        <link>https://github.com/codthing/react/remix/remix-base/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://github.com/codthing/react/remix/remix-base/</guid>
+        <description>一、创建 Remix 应用 npx create-remix@latest yarn dev 二、创建文件路由 app/root.tsx Layout 组件中 &amp;lt;li&amp;gt; &amp;lt;Link to=&amp;#34;/posts&amp;#34;&amp;gt;Posts&amp;lt;/Link&amp;gt; &amp;lt;/li&amp;gt; 创建 app/routes/posts/index.tsx export default function Posts() { return ( &amp;lt;div&amp;gt; &amp;lt;h1&amp;gt;Posts&amp;lt;/h1&amp;gt; &amp;lt;/div&amp;gt; ) } 三、加载数据 Remix 的路由文件相当于后端的模板视图，也是控制</description>
+      </item>
+      
+      <item>
+        <title>Remix 进阶</title>
+        <link>https://github.com/codthing/react/remix/remix-adv/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://github.com/codthing/react/remix/remix-adv/</guid>
+        <description>一、创建 Remix 项目 npx create-remix@latest yarn yarn dev 二、目录结构 app/ - 所有Remix应用程序代码的位置 app/entry.client.tsx- JavaScript 的第一部分，它将在应用程序在浏览器中加载时运行。我们使用此文件来</description>
+      </item>
+      
+      <item>
+        <title>Storybook</title>
+        <link>https://github.com/codthing/react/storybook/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://github.com/codthing/react/storybook/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>tailwindcss</title>
+        <link>https://github.com/codthing/react/tailwindcss/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://github.com/codthing/react/tailwindcss/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>

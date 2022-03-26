@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaScript 算法和数据结构 on codthing</title>
+    <link>https://github.com/codthing/javascript/algorithms-data/</link>
+    <description>Recent content in JavaScript 算法和数据结构 on codthing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <copyright>&amp;copy;{year}, codthing</copyright>
+    <lastBuildDate>Tue, 28 Jan 2020 00:34:39 +0900</lastBuildDate>
+    
+        <atom:link href="https://github.com/codthing/javascript/algorithms-data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>ES6</title>
+        <link>https://github.com/codthing/javascript/algorithms-data/es6/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://github.com/codthing/javascript/algorithms-data/es6/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>面向对象编程</title>
+        <link>https://github.com/codthing/javascript/algorithms-data/object-programming/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://github.com/codthing/javascript/algorithms-data/object-programming/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>函数式编程</title>
+        <link>https://github.com/codthing/javascript/algorithms-data/function-programming/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://github.com/codthing/javascript/algorithms-data/function-programming/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>
