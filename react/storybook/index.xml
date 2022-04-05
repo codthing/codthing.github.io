@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Storybook on codthing</title>
+    <link>https://codthing.github.io/react/storybook/</link>
+    <description>Recent content in Storybook on codthing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <copyright>&amp;copy;{year}, codthing</copyright>
+    <lastBuildDate>Tue, 28 Jan 2020 00:34:39 +0900</lastBuildDate>
+    
+        <atom:link href="https://codthing.github.io/react/storybook/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Storybook 最佳实践</title>
+        <link>https://codthing.github.io/react/storybook/sb-bp/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/react/storybook/sb-bp/</guid>
+        <description>一、安装配置 在next.js项目中执行 npx sb init yarn storybook .storybook/preview.js 为 Storybook 配置 Next.js Images + import * as NextImage from &amp;#34;next/image&amp;#34;; + const OriginalNextImage = NextImage.default; + Object.defineProperty(NextImage, &amp;#34;default&amp;#34;, { configurable: true, value: (props) =&amp;gt; ( &amp;lt;OriginalNextImage {...props} unoptimized /&amp;gt; ), }); package.json 为 Storybook 提供 Next.js 公共目录 {</description>
+      </item>
+      
+      <item>
+        <title>开始</title>
+        <link>https://codthing.github.io/react/storybook/sb-started/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/react/storybook/sb-started/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>写故事</title>
+        <link>https://codthing.github.io/react/storybook/sb-write/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/react/storybook/sb-write/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>编写测试</title>
+        <link>https://codthing.github.io/react/storybook/sb-test/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/react/storybook/sb-test/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>

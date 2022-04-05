@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>编写测试 on codthing</title>
+    <link>https://codthing.github.io/react/storybook/sb-test/</link>
+    <description>Recent content in 编写测试 on codthing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <copyright>&amp;copy;{year}, codthing</copyright>
+    <lastBuildDate>Tue, 28 Jan 2020 00:34:39 +0900</lastBuildDate>
+    
+        <atom:link href="https://codthing.github.io/react/storybook/sb-test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>介绍</title>
+        <link>https://codthing.github.io/react/storybook/sb-test/sb-test-introduction/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/react/storybook/sb-test/sb-test-introduction/</guid>
+        <description>如何使用 Storybook 测试 UI Storybook 为隔离测试组件提供了一个洁净室环境。 无论多么复杂，故事都可以轻松探索组件的所有变体。 这意味着故事是 UI 测试策略的实用起点。 将</description>
+      </item>
+      
+      <item>
+        <title>视觉测试</title>
+        <link>https://codthing.github.io/react/storybook/sb-test/sb-visual-tests/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/react/storybook/sb-test/sb-visual-tests/</guid>
+        <description>视觉测试 可视化测试，也称为可视化回归测试，可捕获 UI 外观中的错误。 通过截取每个故事的屏幕截图并将它们提交进行比较以识别更改来工作。 非常适合验证</description>
+      </item>
+      
+      <item>
+        <title>可访问性测试</title>
+        <link>https://codthing.github.io/react/storybook/sb-test/sb-accessibility-testing/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/react/storybook/sb-test/sb-accessibility-testing/</guid>
+        <description>可访问性是使网站包容所有人的做法。 这意味着支持例如：键盘导航、屏幕阅读器支持、触摸友好、可用的颜色对比度、减少运动和缩放支持。 可访问性测试根</description>
+      </item>
+      
+    
+  </channel>
+</rss>

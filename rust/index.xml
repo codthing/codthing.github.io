@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rust on codthing</title>
+    <link>https://codthing.github.io/rust/</link>
+    <description>Recent content in Rust on codthing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <copyright>&amp;copy;{year}, codthing</copyright>
+    <lastBuildDate>Tue, 28 Jan 2020 00:34:39 +0900</lastBuildDate>
+    
+        <atom:link href="https://codthing.github.io/rust/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Rust</title>
+        <link>https://codthing.github.io/rust/rust-base/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/rust/rust-base/</guid>
+        <description>高级人体工程学和低级控制在编程语言设计中往往是不一致的；Rust 挑战了这种冲突。 一、安装 下载安装器，然后运行该程序并遵循屏幕上的指示。 二、获</description>
+      </item>
+      
+    
+  </channel>
+</rss>

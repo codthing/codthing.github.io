@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Node.js on codthing</title>
+    <link>https://codthing.github.io/nodejs/nodebase/</link>
+    <description>Recent content in Node.js on codthing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <copyright>&amp;copy;{year}, codthing</copyright>
+    <lastBuildDate>Tue, 28 Jan 2020 00:34:39 +0900</lastBuildDate>
+    
+        <atom:link href="https://codthing.github.io/nodejs/nodebase/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>快速开始</title>
+        <link>https://codthing.github.io/nodejs/nodebase/node-start/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/nodejs/nodebase/node-start/</guid>
+        <description>Node.js 简介 Node.js 是一个开源的跨平台 JavaScript 运行时环境。 Node.js 在浏览器之外运行 V8 JavaScript 引擎，它是 Google Chrome 的核心。 Node.js 应用程序在单个进程中运行，无需为每个请求创建一个新线程</description>
+      </item>
+      
+      <item>
+        <title>异步编程</title>
+        <link>https://codthing.github.io/nodejs/nodebase/node-programming/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/nodejs/nodebase/node-programming/</guid>
+        <description>JavaScript 默认是同步的，并且是单线程的。这意味着代码不能创建新线程并并行运行。 一行一行的代码依次执行，例如： 1 2 3 4 5 6 const a = 1 const b = 2 const c = a * b</description>
+      </item>
+      
+      <item>
+        <title>引擎和运行方式</title>
+        <link>https://codthing.github.io/nodejs/nodebase/node-engine/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/nodejs/nodebase/node-engine/</guid>
+        <description>一、V8 JavaScript 引擎 V8 是支持 Google Chrome 的 JavaScript 引擎的名称。 V8 是用 C++ 编写的。它是便携式的，可在 Mac、Windows、Linux 和其他几个系统上运行。。 很酷的</description>
+      </item>
+      
+      <item>
+        <title>退出 Node.js 程序</title>
+        <link>https://codthing.github.io/nodejs/nodebase/node-exit/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/nodejs/nodebase/node-exit/</guid>
+        <description>有多种方法可以终止 Node.js 应用程序。 1. ctrl + c 在控制台中运行程序时，可以使用 ctrl-C 关闭它，但在这里要讨论的是以编程方式退出。 2. process.exit() process 核心模块提供了一个方便</description>
+      </item>
+      
+      <item>
+        <title>读取环境变量</title>
+        <link>https://codthing.github.io/nodejs/nodebase/node-var/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/nodejs/nodebase/node-var/</guid>
+        <description>Node.js 的流程核心模块提供 env 属性，该属性托管在流程启动时设置的所有环境变量。 一、设置变量（测试环境） 下面的代码运行 app.js 并设置 USER_ID 和 USER_KEY。 1</description>
+      </item>
+      
+      <item>
+        <title>使用 REPL 测试代码</title>
+        <link>https://codthing.github.io/nodejs/nodebase/node-repl/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/nodejs/nodebase/node-repl/</guid>
+        <description>REPL 表示 Read Evaluate Print Loop，它是一种编程语言环境（基本上是一个控制台窗口）， 它将单个表达式作为用户输入，并在执行后将结果返回到控制台。 REPL 会话提供了</description>
+      </item>
+      
+      <item>
+        <title>命令行</title>
+        <link>https://codthing.github.io/nodejs/nodebase/node-cmd/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/nodejs/nodebase/node-cmd/</guid>
+        <description>一、从命令行接受参数 在调用 Node.js 应用程序时，可以使用任意数量的参数 参数可以是独立的，也可以有一个键和一个值。 1 2 3 4 5 6 node app.js joe // or node app.js name=joe 这会改变</description>
+      </item>
+      
+      <item>
+        <title>使用 exports</title>
+        <link>https://codthing.github.io/nodejs/nodebase/node-export/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/nodejs/nodebase/node-export/</guid>
+        <description>Node.js 有一个内置的模块系统。 Node.js 文件可以导入其他 Node.js 文件公开的功能。 module.exports 1 2 3 4 5 6 7 8 9 10 // car.js const car = { brand: &amp;#39;Ford&amp;#39;, model: &amp;#39;Fiesta&amp;#39; } module.exports = car // index.js const car = require(&amp;#39;./car&amp;#39;) exports 1 2 3 4 5 6 7 8</description>
+      </item>
+      
+    
+  </channel>
+</rss>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Render Patterns 渲染模式 on codthing</title>
+    <link>https://codthing.github.io/react-patterns/render-patterns/</link>
+    <description>Recent content in Render Patterns 渲染模式 on codthing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <copyright>&amp;copy;{year}, codthing</copyright>
+    <lastBuildDate>Tue, 28 Jan 2020 00:34:39 +0900</lastBuildDate>
+    
+        <atom:link href="https://codthing.github.io/react-patterns/render-patterns/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>渲染模式介绍</title>
+        <link>https://codthing.github.io/react-patterns/render-patterns/render-patterns-base/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/react-patterns/render-patterns/render-patterns-base/</guid>
+        <description>介绍 如今，可以通过多种方式在 Web 上呈现内容。 如何以及在何处获取和呈现内容的决定是应用程序性能的关键。 可用的框架和库可用于实现不同的渲染模式，如</description>
+      </item>
+      
+      <item>
+        <title>React.js 概述</title>
+        <link>https://codthing.github.io/react-patterns/render-patterns/overview-react/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/react-patterns/render-patterns/overview-react/</guid>
+        <description>React 简介 多年来，对使用 JavaScript 编写用户界面的直接方法的需求不断增加。 React，也称为 React.js，是 Facebook 设计的开源 JavaScript 库，用于构建用户界面或 UI 组件</description>
+      </item>
+      
+      <item>
+        <title>Next.js 概述</title>
+        <link>https://codthing.github.io/react-patterns/render-patterns/overview-next/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/react-patterns/render-patterns/overview-next/</guid>
+        <description>Next.js 简介 Next.js 由 Vercel 创建，是一个混合 React 应用程序的框架。 通常很难理解加载内容的所有不同方式。 Next.js 将其抽象化以使其尽可能简单。 该框架允许构建可扩展、高性能</description>
+      </item>
+      
+      <item>
+        <title>客户端渲染</title>
+        <link>https://codthing.github.io/react-patterns/render-patterns/client-side-rendering/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/react-patterns/render-patterns/client-side-rendering/</guid>
+        <description>在客户端呈现 (CSR) 中，服务器仅呈现页面的准系统 HTML 容器。 在页面上显示内容所需的逻辑、数据获取、模板和路由由在浏览器/客户端中执行的 JavaScript 代码处理。 CSR 作</description>
+      </item>
+      
+      <item>
+        <title>服务端渲染</title>
+        <link>https://codthing.github.io/react-patterns/render-patterns/server-side-rendering/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/react-patterns/render-patterns/server-side-rendering/</guid>
+        <description>服务器端渲染 (SSR) 是最古老的 Web 内容渲染方法之一。 SSR 为要呈现的页面内容生成完整的 HTML，以响应用户请求。 内容可能包括来自数据存储或外部 API 的数据。</description>
+      </item>
+      
+      <item>
+        <title>静态生成</title>
+        <link>https://codthing.github.io/react-patterns/render-patterns/static-rendering/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/react-patterns/render-patterns/static-rendering/</guid>
+        <description>根据我们对 SSR 的讨论，知道服务器上较长的请求处理时间会对 TTFB 产生负面影响。 类似地，对于 CSR，由于下载和处理脚本所花费的时间，大型 JavaScript 包可能对应用</description>
+      </item>
+      
+      <item>
+        <title>增量静态生成 ✔</title>
+        <link>https://codthing.github.io/react-patterns/render-patterns/incremental-static-rendering/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/react-patterns/render-patterns/incremental-static-rendering/</guid>
+        <description>静态生成 (SSG) 解决了 SSR 和 CSR 的大部分问题，但适用于渲染大部分静态内容。 当要呈现的内容是动态的或经常变化时，它会造成限制。 想想一个有多个帖子的不断增</description>
+      </item>
+      
+      <item>
+        <title>渐进补水 ✔</title>
+        <link>https://codthing.github.io/react-patterns/render-patterns/progressive-hydration/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/react-patterns/render-patterns/progressive-hydration/</guid>
+        <description>简介 服务器呈现的应用程序使用服务器为当前导航生成 HTML。 一旦服务器完成生成 HTML 内容（其中还包含正确显示静态 UI 所需的 CSS 和 JSON 数据），它就会将数据</description>
+      </item>
+      
+      <item>
+        <title>流(媒体)式服务器端渲染 ✔</title>
+        <link>https://codthing.github.io/react-patterns/render-patterns/streaming-ssr/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/react-patterns/render-patterns/streaming-ssr/</guid>
+        <description>我们可以通过流式服务器渲染我们的应用程序的内容来减少服务器渲染我们的应用程序的时间。 我们可以将其拆分为更小的块，而不是生成包含当前导航所需标</description>
+      </item>
+      
+      <item>
+        <title>React 服务器组件 ✔</title>
+        <link>https://codthing.github.io/react-patterns/render-patterns/react-server-components/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/react-patterns/render-patterns/react-server-components/</guid>
+        <description>React 团队正在研究零包大小的 React 服务器组件，旨在通过服务器驱动的思维模型实现现代 UX。 这与组件的服务器端渲染 (SSR) 完全不同，并且可能导致客户端 JavaScript 包显着</description>
+      </item>
+      
+      <item>
+        <title>选择性水合作用 ✔</title>
+        <link>https://codthing.github.io/react-patterns/render-patterns/react-selective-hydration/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/react-patterns/render-patterns/react-selective-hydration/</guid>
+        <description>在之前的文章中，我们介绍了 SSR 和 Hydration 如何改善用户体验。 React 能够（快速）使用 react-dom/server 库提供的 renderToString 方法在服务器上生成一棵树，该方法在整个树生成后发送到客户端。</description>
+      </item>
+      
+      <item>
+        <title>岛屿架构 ✔</title>
+        <link>https://codthing.github.io/react-patterns/render-patterns/islands-architecture/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/react-patterns/render-patterns/islands-architecture/</guid>
+        <description>岛屿架构鼓励在服务器渲染的网页中进行小的、集中的交互块。 岛屿的输出是逐步增强的 HTML，在增强发生的方式上具有更多的特异性。 不是单个应用程序</description>
+      </item>
+      
+    
+  </channel>
+</rss>

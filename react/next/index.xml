@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Next.js on codthing</title>
+    <link>https://codthing.github.io/react/next/</link>
+    <description>Recent content in Next.js on codthing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <copyright>&amp;copy;{year}, codthing</copyright>
+    <lastBuildDate>Tue, 28 Jan 2020 00:34:39 +0900</lastBuildDate>
+    
+        <atom:link href="https://codthing.github.io/react/next/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Next.js 速览</title>
+        <link>https://codthing.github.io/react/next/next-base/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/react/next/next-base/</guid>
+        <description>Next.js：React 框架 Next.js 提供生产所需的所有功能的最佳开发人员体验：混合静态和服务器渲染、TypeScript 支持、智能捆绑、路由预取</description>
+      </item>
+      
+      <item>
+        <title>Next.js 核心工作内容</title>
+        <link>https://codthing.github.io/react/next/next-content/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/react/next/next-content/</guid>
+        <description>一、渲染 将 React 中编写的代码转换为 UI 的 HTML 表示形式是不可避免的工作单元。 这个过程称为渲染。 1. 预渲染（默认） a. 服务器端渲染 getServerSideProps React 18 和 Next 12 引入了Reac</description>
+      </item>
+      
+      <item>
+        <title>Next.js 各种组合</title>
+        <link>https://codthing.github.io/react/next/next-multiple/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/react/next/next-multiple/</guid>
+        <description>Next.js 与各种技术栈的组合 Next.js + TailwindCSS + SB + zustand 注意： 不支持IE浏览器 1. VSCode 插件 PostCSS Language Support Tailwind CSS IntelliSense 2. TailwindCSS 在 Next.js v10+ 项目中设置 Tailwind CSS Step1. 创建项目 1 2 yarn create next-app --typescript Step2. 安装Tailwi</description>
+      </item>
+      
+    
+  </channel>
+</rss>

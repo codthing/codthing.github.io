@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaScript on codthing</title>
+    <link>https://codthing.github.io/javascript/</link>
+    <description>Recent content in JavaScript on codthing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <copyright>&amp;copy;{year}, codthing</copyright>
+    <lastBuildDate>Tue, 28 Jan 2020 00:34:39 +0900</lastBuildDate>
+    
+        <atom:link href="https://codthing.github.io/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Array</title>
+        <link>https://codthing.github.io/javascript/array/array-bp/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/javascript/array/array-bp/</guid>
+        <description>一、四个必备的js数组方法 1. Array.prototype.map() 数组元素更新 创建一个新数组。结果是一个与原数组长度相同的数组，并根据提供的函数转换元素。 1 2 3 4 const arr = [1, 2, 3]; const</description>
+      </item>
+      
+      <item>
+        <title>Collect &amp; Ramda</title>
+        <link>https://codthing.github.io/javascript/cr/cr/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/javascript/cr/cr/</guid>
+        <description>collect.js &amp;amp; ramda（ 处理数组和对象的好帮手 ） Step1. 安装 yarn add collect.js yarn add ramda Step2. 导入 import collect from &amp;#39;collect.js&amp;#39; import * as R from &amp;#39;ramda&amp;#39; Step3. （项目实例，用来渲染多屏，每屏里面有 8 张卡片） 使用 collect.js 示</description>
+      </item>
+      
+      <item>
+        <title>JavaScript 算法和数据结构</title>
+        <link>https://codthing.github.io/javascript/algorithms-data/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/javascript/algorithms-data/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>原型链和继承</title>
+        <link>https://codthing.github.io/javascript/prototype/prototype-bp/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/javascript/prototype/prototype-bp/</guid>
+        <description>一、关键字 对象 object：是数据的集合 原型继承 构造器 原型链 子类继承 JavaScript 中的（几乎）一切都是对象，除了原始值以外（number,string,</description>
+      </item>
+      
+      <item>
+        <title>在 JavaScript 中实现单例</title>
+        <link>https://codthing.github.io/javascript/function/single/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/javascript/function/single/</guid>
+        <description>单例是一种面向对象的软件设计模式，它确保给定的类只被实例化一次。 比如，数据库连接。 Proxy Proxy 对象用于创建一个对象的代理，从而实现基本操作的拦截和自</description>
+      </item>
+      
+      <item>
+        <title>解构赋值</title>
+        <link>https://codthing.github.io/javascript/array/jiegou/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/javascript/array/jiegou/</guid>
+        <description>1. 忽略值 1 2 3 const [apple, , banana] = [&amp;#39;apple&amp;#39;, &amp;#39;pear&amp;#39;, &amp;#39;banana&amp;#39;]; console.log(apple, banana); // apple banana 2. 分配剩余值 1 2 3 4 5 6 const [one, two, ...remainingNum] = [1, 2, 3, 4, 5]; console.log(remainingNum); // [3, 4, 5] const { apple, pear, ...remainFruits } = { apple:&amp;#39;apple&amp;#39;, pear:&amp;#39;pear&amp;#39;, banana:&amp;#39;banana&amp;#39;, cherry:&amp;#39;cherry&amp;#39; }; console.log(remainFruits); // { banana:&amp;#39;banana&amp;#39;, cherry:&amp;#39;cherry&amp;#39; } 3. 组合的</description>
+      </item>
+      
+      <item>
+        <title>命令式 vs 函数式 vs 链式</title>
+        <link>https://codthing.github.io/javascript/function/for/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/javascript/function/for/</guid>
+        <description>这里用 For 循环举例 命令式 1 2 3 4 5 6 7 8 9 10 11 12 13 const files = [&amp;#34;foo.txt &amp;#34;, &amp;#34;.bar&amp;#34;, &amp;#34; &amp;#34;, &amp;#34;baz.foo&amp;#34;]; let filePaths = []; for (let file of files) { const fileName = file.trim(); if (fileName) { const filePath = `~/cool_app/${fileName}`; filePaths.push(filePath); } } // filePaths = [ &amp;#39;~/cool_app/foo.txt&amp;#39;, &amp;#39;~/cool_app/.bar&amp;#39;, &amp;#39;~/cool_app/baz.foo&amp;#39;] 函数式 封装性</description>
+      </item>
+      
+      <item>
+        <title>字面量 vs 构造器 vs class</title>
+        <link>https://codthing.github.io/javascript/function/new/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/javascript/function/new/</guid>
+        <description>Object 概述 Object 是 JavaScript 的一种 数据类型 。它用于存储各种键值集合和更复杂的实体。 Objects 可以通过 对象字面量、构造函数 或者 class 的方式创建 一、对象字面量 （{&amp;hell</description>
+      </item>
+      
+      <item>
+        <title>箭头函数 vs 常规函数</title>
+        <link>https://codthing.github.io/javascript/function/arrow/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/javascript/function/arrow/</guid>
+        <description>JavaScript 的箭头函数从表面上看可能与常规函数相同，但它们有一些非常重要的区别： 关键区别 语法 this 值（执行上下文） 用作类方法 用作构造函数 arguments 参数绑定 #. 语法 1</description>
+      </item>
+      
+      <item>
+        <title>闭包、递归和回调</title>
+        <link>https://codthing.github.io/javascript/function/callback/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/javascript/function/callback/</guid>
+        <description>闭包 涉及变量作用域 内部函数使用外部函数的变量 1 2 3 4 5 6 7 8 9 10 11 12 13 function outerFunc() { const outerVal = 100; function interFunc() { console.log(outerVal); } return interFunc; // 记得返回你的内部函数 } const inter = outerFunc(); inter(); //100 递归 自</description>
+      </item>
+      
+      <item>
+        <title>错误处理，try{...}catch{...}</title>
+        <link>https://codthing.github.io/javascript/function/try-catch/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/javascript/function/try-catch/</guid>
+        <description>try&amp;hellip;catch语句标记要尝试的语句块，并指定一个出现异常时抛出的响应。 1 2 3 4 5 6 7 8 9 10 11 try { // 尝试运行这段代码 } catch(err) { //</description>
+      </item>
+      
+      <item>
+        <title>Promise, async/await</title>
+        <link>https://codthing.github.io/javascript/function/promise/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/javascript/function/promise/</guid>
+        <description>一、Promise 概述 Promise 对象用于表示一个异步操作的最终完成 (或失败)及其结果值。 #. Promise 有 3 个状态 待定（pending）: 初始状态，既没有被兑现</description>
+      </item>
+      
+    
+  </channel>
+</rss>
