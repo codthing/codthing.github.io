@@ -389,7 +389,7 @@
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
         <guid>https://codthing.github.io/react/next/next-content/</guid>
-        <description>一、渲染 将 React 中编写的代码转换为 UI 的 HTML 表示形式是不可避免的工作单元。 这个过程称为渲染。 1. 预渲染（默认） a. 服务器端渲染 getServerSideProps React 18 和 Next 12 引入了Reac</description>
+        <description>一、渲染 将 React 中编写的代码转换为 UI 的 HTML 表示形式是不可避免的工作单元。 这个过程称为渲染。 1. 预渲染（默认） a. 服务器端渲染（水合作用） 使用服务器端呈</description>
       </item>
       
       <item>
