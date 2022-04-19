@@ -33,6 +33,15 @@
       </item>
       
       <item>
+        <title>vue-cli@3x 配置</title>
+        <link>https://codthing.github.io/others/vue/vue-cli/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/others/vue/vue-cli/</guid>
+        <description>需求 根据不同的域名打包 配置 Step1. 项目根目录中新建 .env.development 和 .env.production 1 2 3 4 5 //.env.development NODE_ENV = development VUE_APP_URL = &amp;#34;开发域名/IP源&amp;#34; 1 2 3 4 5 //.env.production NODE_ENV = production VUE_APP_URL = &amp;#34;</description>
+      </item>
+      
+      <item>
         <title>webpack 基础</title>
         <link>https://codthing.github.io/others/webpack/webpack-base/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
