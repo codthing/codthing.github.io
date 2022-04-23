@@ -411,6 +411,15 @@
       </item>
       
       <item>
+        <title>Taro开发日志</title>
+        <link>https://codthing.github.io/react/wechat-mini/taro-log/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/react/wechat-mini/taro-log/</guid>
+        <description>Taro 微信小程序开发日志 开发和性能似乎都不太友好，改用Remax 一、技术栈选择 语言：TypeScript 框架库：React(Taro) 状态管理：</description>
+      </item>
+      
+      <item>
         <title>UI-Kitten 最佳实践</title>
         <link>https://codthing.github.io/react-native/ui/ui-kitten/kitten-bp/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
@@ -597,6 +606,15 @@
         
         <guid>https://codthing.github.io/react-native/expo/react-navigation/</guid>
         <description>一、goBack()返回上一屏幕刷新状态的方法 通过路由传递数据时，当向同一个页面（详情页）传递一些唯一数据，使用push，而不是 naviga</description>
+      </item>
+      
+      <item>
+        <title>Remax开发日志</title>
+        <link>https://codthing.github.io/react/wechat-mini/remax-log/</link>
+        <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
+        
+        <guid>https://codthing.github.io/react/wechat-mini/remax-log/</guid>
+        <description>Remax微信小程序开发日志 一、开始 1 2 npx create-remax-app myApp -t 1 2 yarn dev 1 2 微信小程序开发者工具导入dist文件夹 二、使用 Kqinfo UI 安装 1 2 yarn add @kqinfo/ui 如果安装失败se</description>
       </item>
       
       <item>
